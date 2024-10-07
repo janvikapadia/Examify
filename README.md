@@ -78,7 +78,7 @@ Follow these steps to set up Examify on your local machine.
 ## Screenshots
 
 ### 1. Home Page
-![Home Page](./screenshots/Screenshot 2024-10-07 143917.png)
+![Home Page](./screenshots/homepage.png)
 
 ### 2. Exam Interface
 ![Exam Interface](./screenshots/Screenshot 2024-10-07 144207.png)
