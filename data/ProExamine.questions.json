@@ -1,0 +1,2464 @@
+[{
+  "_id": {
+    "$oid": "66e946545711e70a82b42733"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "The reaction used for preparation of soap from fat is :",
+  "option_a": "an addition reaction",
+  "option_b": "alkaline hydrolysis reaction",
+  "option_c": "reduced reduction",
+  "option_d": "an oxidation reaction",
+  "correct_answer": "alkaline hydrolysis reaction",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e947ae5711e70a82b42735"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "The group of chemicals used as pesticide is :",
+  "option_a": "Dieldrin, Sodium Arsinite, Tetrachloroethene ",
+  "option_b": "Aldrin, Sodium Chlorate, Sodium Arsinite",
+  "option_c": "DDT, Aldrin",
+  "option_d": "Sodium Chlorate, DDT, PAN",
+  "correct_answer": "DDT, Aldrin",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e947fe5711e70a82b42737"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "Which of the following artificial sweeteners has the highest sweetness value in comparison to cane sugar ?",
+  "option_a": "Alitame",
+  "option_b": "Sucralose",
+  "option_c": "Saccharin",
+  "option_d": "Aspartame",
+  "correct_answer": "Alitame",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e94ea770f2750d82bbdd7d"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "A cube of ice floats partly in water and partly in kerosene oil. The ratio of volume of ice immersed in water to that in kerosene oil (specific gravity of Kerosene oil = 0.8, specific gravity of ice = 0.9):",
+  "option_a": "5:4",
+  "option_b": "9:10",
+  "option_c": "8:9",
+  "option_d": "1:1",
+  "correct_answer": "1:1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e94ef570f2750d82bbdd7f"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "With rise in temperature, the Young's modulus of elasticity :",
+  "option_a": "changes erractically",
+  "option_b": "increases",
+  "option_c": "decreases",
+  "option_d": "remains unchanged",
+  "correct_answer": "decreases",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e94f4670f2750d82bbdd81"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "A wire of length L  and radius r  is clamped at one end. If its other end is pulled by a force F , its length increases by  l. If the radius of the wire and the applied force both are reduced to half of their original values keeping original length constant, the increase in length will become:",
+  "option_a": "2 times",
+  "option_b": "4 times",
+  "option_c": "3 times",
+  "option_d": "3/2 times",
+  "correct_answer": "2 times",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e946545711e70a82b42739"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "What is the unit of electric current?",
+  "option_a": "Volt",
+  "option_b": "Ampere",
+  "option_c": "Ohm",
+  "option_d": "Coulomb",
+  "correct_answer": "Ampere",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e946545711e70a82b4273a"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "Which of the following is a scalar quantity?",
+  "option_a": "Velocity",
+  "option_b": "Force",
+  "option_c": "Momentum",
+  "option_d": "Temperature",
+  "correct_answer": "Temperature",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e946545711e70a82b4273b"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "Which law of thermodynamics introduces the concept of entropy?",
+  "option_a": "First Law",
+  "option_b": "Second Law",
+  "option_c": "Third Law",
+  "option_d": "Zeroth Law",
+  "correct_answer": "Second Law",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e946545711e70a82b4273c"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "The time period of a simple pendulum depends on:",
+  "option_a": "Mass",
+  "option_b": "Amplitude",
+  "option_c": "Length",
+  "option_d": "Frequency",
+  "correct_answer": "Length",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e946545711e70a82b4273d"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "Which of the following is a unit of energy?",
+  "option_a": "Watt",
+  "option_b": "Joule",
+  "option_c": "Newton",
+  "option_d": "Ampere",
+  "correct_answer": "Joule",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e946545711e70a82b4273e"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "Escape velocity on Earth is approximately:",
+  "option_a": "9.8 m/s",
+  "option_b": "11.2 m/s",
+  "option_c": "112 m/s",
+  "option_d": "11.2 km/s",
+  "correct_answer": "11.2 km/s",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e946545711e70a82b4273f"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "A light year is a unit of:",
+  "option_a": "Time",
+  "option_b": "Distance",
+  "option_c": "Speed",
+  "option_d": "Energy",
+  "correct_answer": "Distance",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e946545711e70a82b42740"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "The value of gravitational acceleration (g) on the Moon is:",
+  "option_a": "9.8 m/s²",
+  "option_b": "3.8 m/s²",
+  "option_c": "1.6 m/s²",
+  "option_d": "5.8 m/s²",
+  "correct_answer": "1.6 m/s²",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e946545711e70a82b42741"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "Which of the following phenomena shows the wave nature of light?",
+  "option_a": "Photoelectric effect",
+  "option_b": "Compton effect",
+  "option_c": "Interference",
+  "option_d": "Pair production",
+  "correct_answer": "Interference",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e946545711e70a82b42742"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "The speed of sound is maximum in:",
+  "option_a": "Air",
+  "option_b": "Water",
+  "option_c": "Steel",
+  "option_d": "Vacuum",
+  "correct_answer": "Steel",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e946545711e70a82b42743"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "The pH of pure water at 25°C is:",
+  "option_a": "0",
+  "option_b": "7",
+  "option_c": "14",
+  "option_d": "1",
+  "correct_answer": "7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e946545711e70a82b42744"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "Which gas is commonly used in the manufacturing of ammonia?",
+  "option_a": "Oxygen",
+  "option_b": "Hydrogen",
+  "option_c": "Nitrogen",
+  "option_d": "Carbon dioxide",
+  "correct_answer": "Nitrogen",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e946545711e70a82b42745"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "Which element is a noble gas?",
+  "option_a": "Oxygen",
+  "option_b": "Hydrogen",
+  "option_c": "Neon",
+  "option_d": "Nitrogen",
+  "correct_answer": "Neon",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e946545711e70a82b42746"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "What is the common name of sodium carbonate?",
+  "option_a": "Baking soda",
+  "option_b": "Washing soda",
+  "option_c": "Slaked lime",
+  "option_d": "Bleaching powder",
+  "correct_answer": "Washing soda",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e946545711e70a82b42747"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "Which of the following is an allotrope of carbon?",
+  "option_a": "Graphite",
+  "option_b": "Water",
+  "option_c": "Oxygen",
+  "option_d": "Sulfur",
+  "correct_answer": "Graphite",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e946545711e70a82b42748"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "The reaction used for preparation of soap from fat is:",
+  "option_a": "Addition reaction",
+  "option_b": "Alkaline hydrolysis reaction",
+  "option_c": "Reduction reaction",
+  "option_d": "Oxidation reaction",
+  "correct_answer": "Alkaline hydrolysis reaction",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e946545711e70a82b42749"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "Which of the following is the most electronegative element?",
+  "option_a": "Fluorine",
+  "option_b": "Oxygen",
+  "option_c": "Chlorine",
+  "option_d": "Nitrogen",
+  "correct_answer": "Fluorine",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e946545711e70a82b4274a"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "Which compound has the highest boiling point?",
+  "option_a": "Water",
+  "option_b": "Methanol",
+  "option_c": "Ethanol",
+  "option_d": "Chloroform",
+  "correct_answer": "Water",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e946545711e70a82b4274b"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "What is the molecular formula of glucose?",
+  "option_a": "C6H12O6",
+  "option_b": "C2H5OH",
+  "option_c": "C12H22O11",
+  "option_d": "CH3COOH",
+  "correct_answer": "C6H12O6",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e946545711e70a82b4274c"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "Which of the following is not an acidic oxide?",
+  "option_a": "CO2",
+  "option_b": "SO2",
+  "option_c": "NO2",
+  "option_d": "Na2O",
+  "correct_answer": "Na2O",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f946545711e70a82b42760"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "If ∫(0 to 1) x^n dx = 1/(n+1), then the value of ∫(0 to 1) log(1+x) dx is:",
+  "option_a": "0",
+  "option_b": "1",
+  "option_c": "1/2",
+  "option_d": "1/4",
+  "correct_answer": "1/2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f946545711e70a82b42761"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "The equation of the tangent to the curve y = x^3 + 2x + 1 at x = 1 is:",
+  "option_a": "y = 4x - 3",
+  "option_b": "y = 3x - 2",
+  "option_c": "y = 4x - 2",
+  "option_d": "y = 5x - 4",
+  "correct_answer": "y = 4x - 3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f946545711e70a82b42762"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "The value of the limit lim (x→0) (sin x)/x is:",
+  "option_a": "0",
+  "option_b": "1",
+  "option_c": "∞",
+  "option_d": "Undefined",
+  "correct_answer": "1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f946545711e70a82b42763"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "If f(x) = e^x, then the derivative of f(x) is:",
+  "option_a": "e^x",
+  "option_b": "x^2",
+  "option_c": "x",
+  "option_d": "1/x",
+  "correct_answer": "e^x",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f946545711e70a82b42764"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "The value of the integral ∫(0 to 2) (x^2) dx is:",
+  "option_a": "8",
+  "option_b": "4",
+  "option_c": "16/3",
+  "option_d": "2",
+  "correct_answer": "8/3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f946545711e70a82b42765"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "If A is a square matrix, then |A^T| (the determinant of the transpose of A) is:",
+  "option_a": "|A|",
+  "option_b": "|A|^2",
+  "option_c": "1/|A|",
+  "option_d": "None of these",
+  "correct_answer": "|A|",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f946545711e70a82b42766"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "The area under the curve y = x^2 from x = 0 to x = 1 is:",
+  "option_a": "1/3",
+  "option_b": "1/2",
+  "option_c": "1",
+  "option_d": "2/3",
+  "correct_answer": "1/3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f946545711e70a82b42767"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "The solution to the equation x^2 - 5x + 6 = 0 is:",
+  "option_a": "2 and 3",
+  "option_b": "1 and 5",
+  "option_c": "4 and 6",
+  "option_d": "None of these",
+  "correct_answer": "2 and 3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f946545711e70a82b42768"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "The general solution of the differential equation dy/dx = y/x is:",
+  "option_a": "y = x^2",
+  "option_b": "y = cx",
+  "option_c": "y = c/x",
+  "option_d": "y = x",
+  "correct_answer": "y = cx",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f946545711e70a82b42769"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "The number of solutions for the equation sin(x) = 0 in the interval [0, 2π] is:",
+  "option_a": "0",
+  "option_b": "1",
+  "option_c": "2",
+  "option_d": "3",
+  "correct_answer": "2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edc90ed4e2a489e645c353"
+  },
+  "exam_id": {
+    "$oid": "66edc698408a9b184a776b41"
+  },
+  "question_text": "The derivative of sin(x) is:",
+  "option_a": "cos(x)",
+  "option_b": "-cos(x)",
+  "option_c": "tan(x)",
+  "option_d": "sec(x)",
+  "correct_answer": "cos(x)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edc90ed4e2a489e645c354"
+  },
+  "exam_id": {
+    "$oid": "66edc698408a9b184a776b41"
+  },
+  "question_text": "If y = x², what is the value of dy/dx?",
+  "option_a": "2x",
+  "option_b": "x",
+  "option_c": "x²",
+  "option_d": "1/x",
+  "correct_answer": "2x",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edc923d4e2a489e645c356"
+  },
+  "exam_id": {
+    "$oid": "66edc698408a9b184a776b41"
+  },
+  "question_text": "What is the value of acceleration due to gravity on Earth's surface?",
+  "option_a": "9.8 m/s²",
+  "option_b": "10 m/s²",
+  "option_c": "8.5 m/s²",
+  "option_d": "7.8 m/s²",
+  "correct_answer": "9.8 m/s²",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edc923d4e2a489e645c357"
+  },
+  "exam_id": {
+    "$oid": "66edc698408a9b184a776b41"
+  },
+  "question_text": "Which of the following is the formula for kinetic energy?",
+  "option_a": "1/2 mv²",
+  "option_b": "mv",
+  "option_c": "mgh",
+  "option_d": "mv²",
+  "correct_answer": "1/2 mv²",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edc923d4e2a489e645c358"
+  },
+  "exam_id": {
+    "$oid": "66edc698408a9b184a776b41"
+  },
+  "question_text": "What is the charge of an electron?",
+  "option_a": "-1.6 x 10^-19 C",
+  "option_b": "1.6 x 10^-19 C",
+  "option_c": "0",
+  "option_d": "3.2 x 10^-19 C",
+  "correct_answer": "-1.6 x 10^-19 C",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edc923d4e2a489e645c359"
+  },
+  "exam_id": {
+    "$oid": "66edc698408a9b184a776b41"
+  },
+  "question_text": "In which type of reaction are energy and mass both conserved?",
+  "option_a": "Chemical reaction",
+  "option_b": "Nuclear reaction",
+  "option_c": "Thermodynamic reaction",
+  "option_d": "Electromagnetic reaction",
+  "correct_answer": "Nuclear reaction",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edc923d4e2a489e645c35a"
+  },
+  "exam_id": {
+    "$oid": "66edc698408a9b184a776b41"
+  },
+  "question_text": "Which law explains why we can walk on the ground?",
+  "option_a": "Newton’s First Law",
+  "option_b": "Newton’s Second Law",
+  "option_c": "Newton’s Third Law",
+  "option_d": "Law of Gravitation",
+  "correct_answer": "Newton’s Third Law",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edc923d4e2a489e645c35b"
+  },
+  "exam_id": {
+    "$oid": "66edc698408a9b184a776b41"
+  },
+  "question_text": "Which of the following is a strong acid?",
+  "option_a": "HCl",
+  "option_b": "CH₃COOH",
+  "option_c": "NH₃",
+  "option_d": "H₂O",
+  "correct_answer": "HCl",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edc923d4e2a489e645c35c"
+  },
+  "exam_id": {
+    "$oid": "66edc698408a9b184a776b41"
+  },
+  "question_text": "What is the formula of the benzene molecule?",
+  "option_a": "C₆H₆",
+  "option_b": "C₂H₄",
+  "option_c": "C₃H₈",
+  "option_d": "CH₄",
+  "correct_answer": "C₆H₆",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edc923d4e2a489e645c35d"
+  },
+  "exam_id": {
+    "$oid": "66edc698408a9b184a776b41"
+  },
+  "question_text": "What is the hybridization of the carbon atoms in ethene?",
+  "option_a": "sp",
+  "option_b": "sp²",
+  "option_c": "sp³",
+  "option_d": "sp³d",
+  "correct_answer": "sp²",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edc923d4e2a489e645c35e"
+  },
+  "exam_id": {
+    "$oid": "66edc698408a9b184a776b41"
+  },
+  "question_text": "What is the ideal gas constant R in SI units?",
+  "option_a": "8.314 J/(mol·K)",
+  "option_b": "8.314 J/(mol·C)",
+  "option_c": "6.022 J/(mol·K)",
+  "option_d": "1.380 J/(mol·K)",
+  "correct_answer": "8.314 J/(mol·K)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edc923d4e2a489e645c35f"
+  },
+  "exam_id": {
+    "$oid": "66edc698408a9b184a776b41"
+  },
+  "question_text": "Which one of the following elements has the highest first ionization energy?",
+  "option_a": "Helium",
+  "option_b": "Hydrogen",
+  "option_c": "Fluorine",
+  "option_d": "Oxygen",
+  "correct_answer": "Helium",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edc923d4e2a489e645c360"
+  },
+  "exam_id": {
+    "$oid": "66edc698408a9b184a776b41"
+  },
+  "question_text": "In projectile motion, what is the horizontal acceleration?",
+  "option_a": "0 m/s²",
+  "option_b": "9.8 m/s²",
+  "option_c": "Depends on initial velocity",
+  "option_d": "1 m/s²",
+  "correct_answer": "0 m/s²",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edc923d4e2a489e645c361"
+  },
+  "exam_id": {
+    "$oid": "66edc698408a9b184a776b41"
+  },
+  "question_text": "Which of the following is an example of a scalar quantity?",
+  "option_a": "Speed",
+  "option_b": "Velocity",
+  "option_c": "Force",
+  "option_d": "Displacement",
+  "correct_answer": "Speed",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edc923d4e2a489e645c362"
+  },
+  "exam_id": {
+    "$oid": "66edc698408a9b184a776b41"
+  },
+  "question_text": "What is the dimensional formula of work?",
+  "option_a": "[ML²T⁻²]",
+  "option_b": "[MLT⁻²]",
+  "option_c": "[M⁻¹L²T⁻²]",
+  "option_d": "[MLT⁻¹]",
+  "correct_answer": "[ML²T⁻²]",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edc923d4e2a489e645c363"
+  },
+  "exam_id": {
+    "$oid": "66edc698408a9b184a776b41"
+  },
+  "question_text": "Which of the following types of waves are sound waves?",
+  "option_a": "Longitudinal",
+  "option_b": "Transverse",
+  "option_c": "Electromagnetic",
+  "option_d": "Stationary",
+  "correct_answer": "Longitudinal",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edc923d4e2a489e645c364"
+  },
+  "exam_id": {
+    "$oid": "66edc698408a9b184a776b41"
+  },
+  "question_text": "What is the relation between focal length (f), object distance (u), and image distance (v) in a lens?",
+  "option_a": "1/f = 1/v - 1/u",
+  "option_b": "f = uv/(u+v)",
+  "option_c": "1/f = 1/u + 1/v",
+  "option_d": "f = u/v",
+  "correct_answer": "1/f = 1/u + 1/v",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edc923d4e2a489e645c365"
+  },
+  "exam_id": {
+    "$oid": "66edc698408a9b184a776b41"
+  },
+  "question_text": "Which of the following elements has the highest electronegativity?",
+  "option_a": "Fluorine",
+  "option_b": "Chlorine",
+  "option_c": "Oxygen",
+  "option_d": "Nitrogen",
+  "correct_answer": "Fluorine",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edc923d4e2a489e645c366"
+  },
+  "exam_id": {
+    "$oid": "66edc698408a9b184a776b41"
+  },
+  "question_text": "The S.I unit of resistance is:",
+  "option_a": "Ohm",
+  "option_b": "Coulomb",
+  "option_c": "Volt",
+  "option_d": "Joule",
+  "correct_answer": "Ohm",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edc923d4e2a489e645c367"
+  },
+  "exam_id": {
+    "$oid": "66edc698408a9b184a776b41"
+  },
+  "question_text": "The reaction between an acid and a base is called:",
+  "option_a": "Neutralization",
+  "option_b": "Decomposition",
+  "option_c": "Oxidation",
+  "option_d": "Precipitation",
+  "correct_answer": "Neutralization",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edc923d4e2a489e645c368"
+  },
+  "exam_id": {
+    "$oid": "66edc698408a9b184a776b41"
+  },
+  "question_text": "Who proposed the atomic theory?",
+  "option_a": "John Dalton",
+  "option_b": "J.J. Thomson",
+  "option_c": "Ernest Rutherford",
+  "option_d": "Niels Bohr",
+  "correct_answer": "John Dalton",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edcae8d4e2a489e645c36a"
+  },
+  "exam_id": {
+    "$oid": "66edc698408a9b184a776b41"
+  },
+  "question_text": "Which of the following is a conductor of electricity?",
+  "option_a": "Copper",
+  "option_b": "Wood",
+  "option_c": "Glass",
+  "option_d": "Rubber",
+  "correct_answer": "Copper",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edcae8d4e2a489e645c36b"
+  },
+  "exam_id": {
+    "$oid": "66edc698408a9b184a776b41"
+  },
+  "question_text": "Which gas is most abundant in the Earth's atmosphere?",
+  "option_a": "Nitrogen",
+  "option_b": "Oxygen",
+  "option_c": "Carbon dioxide",
+  "option_d": "Argon",
+  "correct_answer": "Nitrogen",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edcae8d4e2a489e645c36c"
+  },
+  "exam_id": {
+    "$oid": "66edc698408a9b184a776b41"
+  },
+  "question_text": "What is the unit of electric current?",
+  "option_a": "Ampere",
+  "option_b": "Volt",
+  "option_c": "Coulomb",
+  "option_d": "Ohm",
+  "correct_answer": "Ampere",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edcae8d4e2a489e645c36d"
+  },
+  "exam_id": {
+    "$oid": "66edc698408a9b184a776b41"
+  },
+  "question_text": "Which of the following is a Newton's law of motion?",
+  "option_a": "Every action has an equal and opposite reaction",
+  "option_b": "Energy cannot be created nor destroyed",
+  "option_c": "Force is directly proportional to mass",
+  "option_d": "Acceleration is inversely proportional to force",
+  "correct_answer": "Every action has an equal and opposite reaction",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edcae8d4e2a489e645c36e"
+  },
+  "exam_id": {
+    "$oid": "66edc698408a9b184a776b41"
+  },
+  "question_text": "Which of the following compounds is used in baking soda?",
+  "option_a": "Sodium bicarbonate",
+  "option_b": "Potassium chloride",
+  "option_c": "Calcium carbonate",
+  "option_d": "Sodium chloride",
+  "correct_answer": "Sodium bicarbonate",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edcae8d4e2a489e645c36f"
+  },
+  "exam_id": {
+    "$oid": "66edc698408a9b184a776b41"
+  },
+  "question_text": "Which mathematical function is used to calculate the area under a curve?",
+  "option_a": "Integration",
+  "option_b": "Differentiation",
+  "option_c": "Multiplication",
+  "option_d": "Exponentiation",
+  "correct_answer": "Integration",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edcae8d4e2a489e645c370"
+  },
+  "exam_id": {
+    "$oid": "66edc698408a9b184a776b41"
+  },
+  "question_text": "The period of a simple pendulum depends on its:",
+  "option_a": "Length",
+  "option_b": "Mass",
+  "option_c": "Amplitude",
+  "option_d": "Density",
+  "correct_answer": "Length",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edcae8d4e2a489e645c371"
+  },
+  "exam_id": {
+    "$oid": "66edc698408a9b184a776b41"
+  },
+  "question_text": "Which one of the following is an exothermic reaction?",
+  "option_a": "Combustion of methane",
+  "option_b": "Decomposition of calcium carbonate",
+  "option_c": "Photosynthesis",
+  "option_d": "Electrolysis of water",
+  "correct_answer": "Combustion of methane",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edcae8d4e2a489e645c372"
+  },
+  "exam_id": {
+    "$oid": "66edc698408a9b184a776b41"
+  },
+  "question_text": "Which of the following statements about sound is correct?",
+  "option_a": "Sound requires a medium to travel",
+  "option_b": "Sound can travel through vacuum",
+  "option_c": "Sound is a transverse wave",
+  "option_d": "Sound travels faster in gases than in liquids",
+  "correct_answer": "Sound requires a medium to travel",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edcae8d4e2a489e645c373"
+  },
+  "exam_id": {
+    "$oid": "66edc698408a9b184a776b41"
+  },
+  "question_text": "What is the molar mass of water (H₂O)?",
+  "option_a": "18 g/mol",
+  "option_b": "20 g/mol",
+  "option_c": "22 g/mol",
+  "option_d": "16 g/mol",
+  "correct_answer": "18 g/mol",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f946545711e70a82b42770"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "The de Broglie wavelength of a particle is inversely proportional to its:",
+  "option_a": "Velocity",
+  "option_b": "Mass",
+  "option_c": "Momentum",
+  "option_d": "Frequency",
+  "correct_answer": "Momentum"
+},
+{
+  "_id": {
+    "$oid": "66f946545711e70a82b42771"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "The rate of reaction depends on:",
+  "option_a": "Temperature",
+  "option_b": "Catalyst",
+  "option_c": "Concentration of reactants",
+  "option_d": "All of the above",
+  "correct_answer": "All of the above"
+},
+{
+  "_id": {
+    "$oid": "66f946545711e70a82b42772"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "In a Carnot engine, the efficiency depends on:",
+  "option_a": "The temperature of the hot and cold reservoirs",
+  "option_b": "The heat absorbed by the engine",
+  "option_c": "The work done by the engine",
+  "option_d": "The heat rejected by the engine",
+  "correct_answer": "The temperature of the hot and cold reservoirs"
+},
+{
+  "_id": {
+    "$oid": "66f946545711e70a82b42773"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "Which among the following is a nucleophilic substitution reaction?",
+  "option_a": "SN1 reaction",
+  "option_b": "Addition reaction",
+  "option_c": "Elimination reaction",
+  "option_d": "Polymerization",
+  "correct_answer": "SN1 reaction"
+},
+{
+  "_id": {
+    "$oid": "66f946545711e70a82b42774"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "The area under the velocity-time graph represents:",
+  "option_a": "Displacement",
+  "option_b": "Acceleration",
+  "option_c": "Force",
+  "option_d": "Momentum",
+  "correct_answer": "Displacement"
+},
+{
+  "_id": {
+    "$oid": "66f946545711e70a82b42775"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "The number of neutrons in an atom of Carbon-14 is:",
+  "option_a": "6",
+  "option_b": "8",
+  "option_c": "14",
+  "option_d": "12",
+  "correct_answer": "8"
+},
+{
+  "_id": {
+    "$oid": "66f946545711e70a82b42776"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "Which of the following represents the second law of thermodynamics?",
+  "option_a": "Energy cannot be created or destroyed",
+  "option_b": "The entropy of a system always increases",
+  "option_c": "Every action has an equal and opposite reaction",
+  "option_d": "The total energy of a system remains constant",
+  "correct_answer": "The entropy of a system always increases"
+},
+{
+  "_id": {
+    "$oid": "66f946545711e70a82b42777"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "Which among the following is the correct value for the specific charge of an electron?",
+  "option_a": "1.6 x 10^-19 C",
+  "option_b": "9.11 x 10^-31 kg",
+  "option_c": "1.76 x 10^11 C/kg",
+  "option_d": "3 x 10^8 m/s",
+  "correct_answer": "1.76 x 10^11 C/kg"
+},
+{
+  "_id": {
+    "$oid": "66f946545711e70a82b42778"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "The element with the highest ionization energy is:",
+  "option_a": "Oxygen",
+  "option_b": "Nitrogen",
+  "option_c": "Fluorine",
+  "option_d": "Helium",
+  "correct_answer": "Helium"
+},
+{
+  "_id": {
+    "$oid": "66f946545711e70a82b42779"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "Which among the following is a scalar quantity?",
+  "option_a": "Velocity",
+  "option_b": "Force",
+  "option_c": "Acceleration",
+  "option_d": "Energy",
+  "correct_answer": "Energy"
+},
+{
+  "_id": {
+    "$oid": "66f946545711e70a82b4277a"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "The orbital angular momentum of an electron is given by:",
+  "option_a": "nħ",
+  "option_b": "l(l+1)ħ",
+  "option_c": "mlħ",
+  "option_d": "n(n+1)ħ",
+  "correct_answer": "l(l+1)ħ"
+},
+{
+  "_id": {
+    "$oid": "66f946545711e70a82b4277b"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "The acceleration due to gravity on the surface of the moon is approximately:",
+  "option_a": "1.6 m/s²",
+  "option_b": "9.8 m/s²",
+  "option_c": "3.7 m/s²",
+  "option_d": "6.0 m/s²",
+  "correct_answer": "1.6 m/s²"
+},
+{
+  "_id": {
+    "$oid": "66f946545711e70a82b4277c"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "The correct order of the size of atoms of the elements in the same group of the periodic table is:",
+  "option_a": "Increases down the group",
+  "option_b": "Decreases down the group",
+  "option_c": "Remains the same",
+  "option_d": "None of the above",
+  "correct_answer": "Increases down the group"
+},
+{
+  "_id": {
+    "$oid": "66f946545711e70a82b4277d"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "Which of the following physical quantities is conserved in all types of collisions?",
+  "option_a": "Kinetic energy",
+  "option_b": "Momentum",
+  "option_c": "Velocity",
+  "option_d": "Mass",
+  "correct_answer": "Momentum"
+},
+{
+  "_id": {
+    "$oid": "66f946545711e70a82b4277e"
+  },
+  "exam_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "question_text": "Which of the following is a weak electrolyte?",
+  "option_a": "Hydrochloric acid",
+  "option_b": "Sodium hydroxide",
+  "option_c": "Acetic acid",
+  "option_d": "Sulfuric acid",
+  "correct_answer": "Acetic acid"
+},
+{
+  "_id": {
+    "$oid": "66edbecbd517f6a9c0f349a5"
+  },
+  "exam_id": {
+    "$oid": "66edbecbd517f6a9c0f349a4"
+  },
+  "question_text": "The Laplace transform of sin(2t) is:",
+  "option_a": "2 / (s^2 + 4)",
+  "option_b": "s / (s^2 + 4)",
+  "option_c": "4 / (s^2 + 4)",
+  "option_d": "s / (s^2 - 4)",
+  "correct_answer": "2 / (s^2 + 4)"
+},
+{
+  "_id": {
+    "$oid": "66edbecbd517f6a9c0f349a6"
+  },
+  "exam_id": {
+    "$oid": "66edbecbd517f6a9c0f349a4"
+  },
+  "question_text": "Which of the following is a high-level data model?",
+  "option_a": "Relational model",
+  "option_b": "ER model",
+  "option_c": "Object-oriented model",
+  "option_d": "Network model",
+  "correct_answer": "ER model"
+},
+{
+  "_id": {
+    "$oid": "66edbecbd517f6a9c0f349a7"
+  },
+  "exam_id": {
+    "$oid": "66edbecbd517f6a9c0f349a4"
+  },
+  "question_text": "In a shell and tube heat exchanger, the heat transfer area increases by increasing:",
+  "option_a": "Shell diameter",
+  "option_b": "Tube diameter",
+  "option_c": "Number of tubes",
+  "option_d": "Tube length",
+  "correct_answer": "Number of tubes"
+},
+{
+  "_id": {
+    "$oid": "66edbecbd517f6a9c0f349a8"
+  },
+  "exam_id": {
+    "$oid": "66edbecbd517f6a9c0f349a4"
+  },
+  "question_text": "The Fourier series of an odd function contains:",
+  "option_a": "Only cosine terms",
+  "option_b": "Only sine terms",
+  "option_c": "Both sine and cosine terms",
+  "option_d": "No terms",
+  "correct_answer": "Only sine terms"
+},
+{
+  "_id": {
+    "$oid": "66edbecbd517f6a9c0f349a9"
+  },
+  "exam_id": {
+    "$oid": "66edbecbd517f6a9c0f349a4"
+  },
+  "question_text": "What is the derivative of tan(x)?",
+  "option_a": "sec^2(x)",
+  "option_b": "sin(x) / cos^2(x)",
+  "option_c": "1 / cos^2(x)",
+  "option_d": "cos^2(x)",
+  "correct_answer": "sec^2(x)"
+},
+{
+  "_id": {
+    "$oid": "66edbecbd517f6a9c0f349aa"
+  },
+  "exam_id": {
+    "$oid": "66edbecbd517f6a9c0f349a4"
+  },
+  "question_text": "The damping ratio in an underdamped system is:",
+  "option_a": "Equal to 1",
+  "option_b": "Less than 1",
+  "option_c": "Greater than 1",
+  "option_d": "Equal to 0",
+  "correct_answer": "Less than 1"
+},
+{
+  "_id": {
+    "$oid": "66edbecbd517f6a9c0f349ab"
+  },
+  "exam_id": {
+    "$oid": "66edbecbd517f6a9c0f349a4"
+  },
+  "question_text": "In a BJT, when is the transistor said to be in the saturation region?",
+  "option_a": "Base-emitter junction is forward biased, base-collector junction is reverse biased",
+  "option_b": "Both junctions are reverse biased",
+  "option_c": "Both junctions are forward biased",
+  "option_d": "Base-emitter junction is reverse biased, base-collector junction is forward biased",
+  "correct_answer": "Both junctions are forward biased"
+},
+{
+  "_id": {
+    "$oid": "66edbecbd517f6a9c0f349ac"
+  },
+  "exam_id": {
+    "$oid": "66edbecbd517f6a9c0f349a4"
+  },
+  "question_text": "In thermodynamics, the process which occurs at constant temperature is called:",
+  "option_a": "Isobaric",
+  "option_b": "Isochoric",
+  "option_c": "Isothermal",
+  "option_d": "Adiabatic",
+  "correct_answer": "Isothermal"
+},
+{
+  "_id": {
+    "$oid": "66edbecbd517f6a9c0f349ad"
+  },
+  "exam_id": {
+    "$oid": "66edbecbd517f6a9c0f349a4"
+  },
+  "question_text": "In a binary tree, a node with no children is called a:",
+  "option_a": "Root",
+  "option_b": "Parent",
+  "option_c": "Leaf",
+  "option_d": "Sibling",
+  "correct_answer": "Leaf"
+},
+{
+  "_id": {
+    "$oid": "66edbecbd517f6a9c0f349ae"
+  },
+  "exam_id": {
+    "$oid": "66edbecbd517f6a9c0f349a4"
+  },
+  "question_text": "In a signal processing system, which transform converts a time-domain signal into its frequency components?",
+  "option_a": "Laplace Transform",
+  "option_b": "Z-Transform",
+  "option_c": "Fourier Transform",
+  "option_d": "Inverse Fourier Transform",
+  "correct_answer": "Fourier Transform"
+},
+{
+  "_id": {
+    "$oid": "66edbecbd517f6a9c0f349af"
+  },
+  "exam_id": {
+    "$oid": "66edbecbd517f6a9c0f349a4"
+  },
+  "question_text": "The critical point on a phase diagram represents:",
+  "option_a": "Triple point",
+  "option_b": "Point where liquid and gas phases are indistinguishable",
+  "option_c": "Melting point",
+  "option_d": "Boiling point",
+  "correct_answer": "Point where liquid and gas phases are indistinguishable"
+},
+{
+  "_id": {
+    "$oid": "66edbecbd517f6a9c0f349b0"
+  },
+  "exam_id": {
+    "$oid": "66edbecbd517f6a9c0f349a4"
+  },
+  "question_text": "The number of flip-flops needed to construct a MOD-16 counter is:",
+  "option_a": "2",
+  "option_b": "4",
+  "option_c": "8",
+  "option_d": "16",
+  "correct_answer": "4"
+},
+{
+  "_id": {
+    "$oid": "66edbecbd517f6a9c0f349b1"
+  },
+  "exam_id": {
+    "$oid": "66edbecbd517f6a9c0f349a4"
+  },
+  "question_text": "Which of the following sorting algorithms has the best average-case time complexity?",
+  "option_a": "Merge Sort",
+  "option_b": "Selection Sort",
+  "option_c": "Bubble Sort",
+  "option_d": "Insertion Sort",
+  "correct_answer": "Merge Sort"
+},
+{
+  "_id": {
+    "$oid": "66edbecbd517f6a9c0f349b2"
+  },
+  "exam_id": {
+    "$oid": "66edbecbd517f6a9c0f349a4"
+  },
+  "question_text": "Which of the following has the highest thermal conductivity?",
+  "option_a": "Wood",
+  "option_b": "Water",
+  "option_c": "Glass",
+  "option_d": "Copper",
+  "correct_answer": "Copper"
+},
+{
+  "_id": {
+    "$oid": "66edbecbd517f6a9c0f349b3"
+  },
+  "exam_id": {
+    "$oid": "66edbecbd517f6a9c0f349a4"
+  },
+  "question_text": "In a three-phase power system, the phase angle difference between adjacent phases is:",
+  "option_a": "60 degrees",
+  "option_b": "90 degrees",
+  "option_c": "120 degrees",
+  "option_d": "180 degrees",
+  "correct_answer": "120 degrees"
+},
+{
+  "_id": {
+    "$oid": "66edbecbd517f6a9c0f349b4"
+  },
+  "exam_id": {
+    "$oid": "66edbecbd517f6a9c0f349a4"
+  },
+  "question_text": "The determinant of a singular matrix is always:",
+  "option_a": "1",
+  "option_b": "-1",
+  "option_c": "0",
+  "option_d": "Non-zero",
+  "correct_answer": "0"
+},
+{
+  "_id": {
+    "$oid": "66edbecbd517f6a9c0f349b5"
+  },
+  "exam_id": {
+    "$oid": "66edbecbd517f6a9c0f349a4"
+  },
+  "question_text": "A PID controller consists of which three terms?",
+  "option_a": "Proportional, Integral, Derivative",
+  "option_b": "Proportional, Integral, Direct",
+  "option_c": "Positive, Integral, Derivative",
+  "option_d": "Proportional, Input, Differential",
+  "correct_answer": "Proportional, Integral, Derivative"
+},
+{
+  "_id": {
+    "$oid": "66edbecbd517f6a9c0f349b6"
+  },
+  "exam_id": {
+    "$oid": "66edbecbd517f6a9c0f349a4"
+  },
+  "question_text": "The natural frequency of oscillation for a spring-mass system is proportional to:",
+  "option_a": "The spring constant",
+  "option_b": "The square root of the spring constant",
+  "option_c": "The inverse of the spring constant",
+  "option_d": "The square of the spring constant",
+  "correct_answer": "The square root of the spring constant"
+},
+{
+  "_id": {
+    "$oid": "66edbecbd517f6a9c0f349b7"
+  },
+  "exam_id": {
+    "$oid": "66edbecbd517f6a9c0f349a4"
+  },
+  "question_text": "In a control system, a pole at the origin of the s-plane corresponds to a system that is:",
+  "option_a": "Unstable",
+  "option_b": "Marginally stable",
+  "option_c": "Stable",
+  "option_d": "Overdamped",
+  "correct_answer": "Marginally stable"
+},
+{
+  "_id": {
+    "$oid": "66edbecbd517f6a9c0f349b8"
+  },
+  "exam_id": {
+    "$oid": "66edbecbd517f6a9c0f349a4"
+  },
+  "question_text": "A pipe in which fluid flows at subsonic speeds is called a:",
+  "option_a": "Choked pipe",
+  "option_b": "Converging pipe",
+  "option_c": "Diverging pipe",
+  "option_d": "Normal pipe",
+  "correct_answer": "Converging pipe"
+},
+{
+  "_id": {
+    "$oid": "66edbecbd517f6a9c0f349b9"
+  },
+  "exam_id": {
+    "$oid": "66edbecbd517f6a9c0f349a4"
+  },
+  "question_text": "The most commonly used gate in digital circuits is the:",
+  "option_a": "AND gate",
+  "option_b": "OR gate",
+  "option_c": "NAND gate",
+  "option_d": "NOR gate",
+  "correct_answer": "NAND gate"
+},
+{
+  "_id": {
+    "$oid": "66edbecbd517f6a9c0f349ba"
+  },
+  "exam_id": {
+    "$oid": "66edbecbd517f6a9c0f349a4"
+  },
+  "question_text": "In a communication system, which modulation technique uses both amplitude and phase to encode data?",
+  "option_a": "Amplitude Modulation",
+  "option_b": "Frequency Modulation",
+  "option_c": "Phase Shift Keying",
+  "option_d": "Quadrature Amplitude Modulation",
+  "correct_answer": "Quadrature Amplitude Modulation"
+},
+{
+  "_id": {
+    "$oid": "66edcc88408a9b184a776b81"
+  },
+  "exam_id": {
+    "$oid": "66edcc88408a9b184a776b80"
+  },
+  "question_text": "If the cost price of 12 pens is equal to the selling price of 10 pens, what is the profit percentage?",
+  "option_a": "10%",
+  "option_b": "20%",
+  "option_c": "25%",
+  "option_d": "15%",
+  "correct_answer": "20%"
+},
+{
+  "_id": {
+    "$oid": "66edcc88408a9b184a776b82"
+  },
+  "exam_id": {
+    "$oid": "66edcc88408a9b184a776b80"
+  },
+  "question_text": "A train running at a speed of 60 km/h crosses a platform in 45 seconds. If the length of the train is 300 meters, what is the length of the platform?",
+  "option_a": "400 meters",
+  "option_b": "450 meters",
+  "option_c": "500 meters",
+  "option_d": "550 meters",
+  "correct_answer": "450 meters"
+},
+{
+  "_id": {
+    "$oid": "66edcc88408a9b184a776b83"
+  },
+  "exam_id": {
+    "$oid": "66edcc88408a9b184a776b80"
+  },
+  "question_text": "In a mixture of 60 liters, the ratio of milk and water is 2:1. How much water should be added to make the ratio 1:2?",
+  "option_a": "40 liters",
+  "option_b": "60 liters",
+  "option_c": "80 liters",
+  "option_d": "100 liters",
+  "correct_answer": "80 liters"
+},
+{
+  "_id": {
+    "$oid": "66edcc88408a9b184a776b84"
+  },
+  "exam_id": {
+    "$oid": "66edcc88408a9b184a776b80"
+  },
+  "question_text": "A shopkeeper sells an article at a 20% discount and still makes a profit of 25%. If the marked price of the article is Rs. 800, what is the cost price?",
+  "option_a": "Rs. 600",
+  "option_b": "Rs. 500",
+  "option_c": "Rs. 450",
+  "option_d": "Rs. 550",
+  "correct_answer": "Rs. 500"
+},
+{
+  "_id": {
+    "$oid": "66edcc88408a9b184a776b85"
+  },
+  "exam_id": {
+    "$oid": "66edcc88408a9b184a776b80"
+  },
+  "question_text": "In how many ways can the letters of the word 'MIRACLE' be arranged?",
+  "option_a": "5040",
+  "option_b": "720",
+  "option_c": "1440",
+  "option_d": "840",
+  "correct_answer": "5040"
+},
+{
+  "_id": {
+    "$oid": "66edcc88408a9b184a776b86"
+  },
+  "exam_id": {
+    "$oid": "66edcc88408a9b184a776b80"
+  },
+  "question_text": "If a triangle has sides of length 3, 4, and 5, what is the area of the triangle?",
+  "option_a": "6 sq units",
+  "option_b": "12 sq units",
+  "option_c": "10 sq units",
+  "option_d": "8 sq units",
+  "correct_answer": "6 sq units"
+},
+{
+  "_id": {
+    "$oid": "66edcc88408a9b184a776b87"
+  },
+  "exam_id": {
+    "$oid": "66edcc88408a9b184a776b80"
+  },
+  "question_text": "The sum of all angles in a hexagon is:",
+  "option_a": "720 degrees",
+  "option_b": "540 degrees",
+  "option_c": "360 degrees",
+  "option_d": "180 degrees",
+  "correct_answer": "720 degrees"
+},
+{
+  "_id": {
+    "$oid": "66edcc88408a9b184a776b88"
+  },
+  "exam_id": {
+    "$oid": "66edcc88408a9b184a776b80"
+  },
+  "question_text": "A man can row 30 km upstream in 5 hours and the same distance downstream in 3 hours. What is the speed of the current?",
+  "option_a": "2 km/h",
+  "option_b": "3 km/h",
+  "option_c": "4 km/h",
+  "option_d": "5 km/h",
+  "correct_answer": "2 km/h"
+},
+{
+  "_id": {
+    "$oid": "66edcc88408a9b184a776b89"
+  },
+  "exam_id": {
+    "$oid": "66edcc88408a9b184a776b80"
+  },
+  "question_text": "In a certain code language, 'STATION' is written as 'NOITATS'. How is 'BOTTLE' written in that code?",
+  "option_a": "ELTTOB",
+  "option_b": "ELTOBT",
+  "option_c": "TTLEBO",
+  "option_d": "TLOBET",
+  "correct_answer": "ELTTOB"
+},
+{
+  "_id": {
+    "$oid": "66edcc88408a9b184a776b8a"
+  },
+  "exam_id": {
+    "$oid": "66edcc88408a9b184a776b80"
+  },
+  "question_text": "A and B can complete a task in 12 days working together. A alone can complete the task in 20 days. How long will it take B to complete the task alone?",
+  "option_a": "30 days",
+  "option_b": "24 days",
+  "option_c": "25 days",
+  "option_d": "15 days",
+  "correct_answer": "30 days"
+},
+{
+  "_id": {
+    "$oid": "66edcc88408a9b184a776b8b"
+  },
+  "exam_id": {
+    "$oid": "66edcc88408a9b184a776b80"
+  },
+  "question_text": "In a bag containing 6 white and 4 black balls, two balls are drawn one by one without replacement. What is the probability that both balls are black?",
+  "option_a": "1/15",
+  "option_b": "1/6",
+  "option_c": "2/15",
+  "option_d": "1/5",
+  "correct_answer": "1/15"
+},
+{
+  "_id": {
+    "$oid": "66edcc88408a9b184a776b8c"
+  },
+  "exam_id": {
+    "$oid": "66edcc88408a9b184a776b80"
+  },
+  "question_text": "If 15% of a number is added to the number itself, the result is 690. What is the number?",
+  "option_a": "600",
+  "option_b": "550",
+  "option_c": "575",
+  "option_d": "650",
+  "correct_answer": "600"
+},
+{
+  "_id": {
+    "$oid": "66edcc88408a9b184a776b8d"
+  },
+  "exam_id": {
+    "$oid": "66edcc88408a9b184a776b80"
+  },
+  "question_text": "A shopkeeper sold an item for Rs. 720 after offering a discount of 10%. What was the marked price?",
+  "option_a": "Rs. 800",
+  "option_b": "Rs. 750",
+  "option_c": "Rs. 850",
+  "option_d": "Rs. 900",
+  "correct_answer": "Rs. 800"
+},
+{
+  "_id": {
+    "$oid": "66edcc88408a9b184a776b8e"
+  },
+  "exam_id": {
+    "$oid": "66edcc88408a9b184a776b80"
+  },
+  "question_text": "The average weight of a group of boys is 40 kg. If a boy weighing 60 kg joins the group, the average weight becomes 42 kg. What is the original number of boys in the group?",
+  "option_a": "5",
+  "option_b": "6",
+  "option_c": "7",
+  "option_d": "8",
+  "correct_answer": "5"
+},
+{
+  "_id": {
+    "$oid": "66edcc88408a9b184a776b8f"
+  },
+  "exam_id": {
+    "$oid": "66edcc88408a9b184a776b80"
+  },
+  "question_text": "If 5x - 3y = 14 and x + 2y = 7, what is the value of x?",
+  "option_a": "3",
+  "option_b": "4",
+  "option_c": "5",
+  "option_d": "6",
+  "correct_answer": "4"
+},
+{
+  "_id": {
+    "$oid": "66edcc88408a9b184a776b90"
+  },
+  "exam_id": {
+    "$oid": "66edcc88408a9b184a776b80"
+  },
+  "question_text": "A person walks 10 meters towards the north and then 10 meters towards the east. How far is the person from the starting point?",
+  "option_a": "10 meters",
+  "option_b": "14 meters",
+  "option_c": "15 meters",
+  "option_d": "20 meters",
+  "correct_answer": "14 meters"
+},
+{
+  "_id": {
+    "$oid": "66edcc88408a9b184a776b91"
+  },
+  "exam_id": {
+    "$oid": "66edcc88408a9b184a776b80"
+  },
+  "question_text": "In a family of 6 members, each person shakes hands with every other person exactly once. How many handshakes are there in total?",
+  "option_a": "15",
+  "option_b": "10",
+  "option_c": "20",
+  "option_d": "12",
+  "correct_answer": "15"
+},
+{
+  "_id": {
+    "$oid": "66edcc88408a9b184a776b92"
+  },
+  "exam_id": {
+    "$oid": "66edcc88408a9b184a776b80"
+  },
+  "question_text": "A vessel contains a mixture of milk and water in the ratio 4:1. If 5 liters of water are added to the mixture, the ratio becomes 4:3. What is the total quantity of the mixture in the vessel?",
+  "option_a": "20 liters",
+  "option_b": "30 liters",
+  "option_c": "40 liters",
+  "option_d": "50 liters",
+  "correct_answer": "20 liters"
+},
+{
+  "_id": {
+    "$oid": "66edcdde408a9b184a776ba9"
+  },
+  "exam_id": {
+    "$oid": "66edcdd8408a9b184a776ba7"
+  },
+  "question_text": "fgsfgsgf",
+  "option_a": "fvsdfvs",
+  "option_b": "dfvd",
+  "option_c": "d",
+  "option_d": "d",
+  "correct_answer": "d",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edcdde408a9b184a776bc1"
+  },
+  "exam_id": {
+    "$oid": "66edcdd8408a9b184a776ba7"
+  },
+  "question_text": "Which of the following is the best antonym for the word 'abundant'?",
+  "option_a": "Plentiful",
+  "option_b": "Scarce",
+  "option_c": "Copious",
+  "option_d": "Rich",
+  "correct_answer": "Scarce",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edcdde408a9b184a776bc2"
+  },
+  "exam_id": {
+    "$oid": "66edcdd8408a9b184a776ba7"
+  },
+  "question_text": "Identify the grammatical error in the following sentence: 'Each of the players are motivated.'",
+  "option_a": "players",
+  "option_b": "are",
+  "option_c": "Each",
+  "option_d": "motivated",
+  "correct_answer": "are",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edcdde408a9b184a776bc3"
+  },
+  "exam_id": {
+    "$oid": "66edcdd8408a9b184a776ba7"
+  },
+  "question_text": "Choose the correct sentence from the options below:",
+  "option_a": "He have been working for hours.",
+  "option_b": "She is playing the piano beautifully.",
+  "option_c": "They has gone to the park.",
+  "option_d": "The cats is sleeping peacefully.",
+  "correct_answer": "She is playing the piano beautifully.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edcdde408a9b184a776bc4"
+  },
+  "exam_id": {
+    "$oid": "66edcdd8408a9b184a776ba7"
+  },
+  "question_text": "Which of the following sentences uses the passive voice?",
+  "option_a": "The cake was eaten by the children.",
+  "option_b": "The children are eating cake.",
+  "option_c": "I will eat the cake.",
+  "option_d": "She baked the cake.",
+  "correct_answer": "The cake was eaten by the children.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edcdde408a9b184a776bc5"
+  },
+  "exam_id": {
+    "$oid": "66edcdd8408a9b184a776ba7"
+  },
+  "question_text": "In the sentence 'The weather was beautiful, and the birds were singing', the conjunction used is:",
+  "option_a": "and",
+  "option_b": "but",
+  "option_c": "or",
+  "option_d": "because",
+  "correct_answer": "and",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edcdde408a9b184a776bc6"
+  },
+  "exam_id": {
+    "$oid": "66edcdd8408a9b184a776ba7"
+  },
+  "question_text": "Which of the following is a correct use of the word 'affect'?",
+  "option_a": "The weather affects my mood.",
+  "option_b": "She has a strong affect for him.",
+  "option_c": "I bought a new affect for the room.",
+  "option_d": "None of the above",
+  "correct_answer": "The weather affects my mood.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edcdde408a9b184a776bc7"
+  },
+  "exam_id": {
+    "$oid": "66edcdd8408a9b184a776ba7"
+  },
+  "question_text": "What is the central theme of the passage? (Given passage)",
+  "option_a": "Economic growth",
+  "option_b": "Political stability",
+  "option_c": "Environmental issues",
+  "option_d": "Social changes",
+  "correct_answer": "Economic growth",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edcdde408a9b184a776bc8"
+  },
+  "exam_id": {
+    "$oid": "66edcdd8408a9b184a776ba7"
+  },
+  "question_text": "Choose the sentence with the correct punctuation:",
+  "option_a": "He said I am going home.",
+  "option_b": "He said, I am going home.",
+  "option_c": "He said, 'I am going home.'",
+  "option_d": "He said, I am going home.",
+  "correct_answer": "He said, 'I am going home.'",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edcdde408a9b184a776bc9"
+  },
+  "exam_id": {
+    "$oid": "66edcdd8408a9b184a776ba7"
+  },
+  "question_text": "Which of the following pairs of words are synonyms?",
+  "option_a": "Joy - Sorrow",
+  "option_b": "Rich - Poor",
+  "option_c": "Bright - Dull",
+  "option_d": "Happy - Content",
+  "correct_answer": "Happy - Content",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edcdde408a9b184a776bca"
+  },
+  "exam_id": {
+    "$oid": "66edcdd8408a9b184a776ba7"
+  },
+  "question_text": "What is the plural of the word 'criterion'?",
+  "option_a": "Criterions",
+  "option_b": "Criteria",
+  "option_c": "Criterias",
+  "option_d": "Criterion",
+  "correct_answer": "Criteria",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edcdde408a9b184a776bcb"
+  },
+  "exam_id": {
+    "$oid": "66edcdd8408a9b184a776ba7"
+  },
+  "question_text": "If in a certain code, ‘ORANGE’ is written as ‘ORENGA’, how is ‘YELLOW’ written in that code?",
+  "option_a": "YELWLO",
+  "option_b": "YELOWL",
+  "option_c": "YLEOWL",
+  "option_d": "YEOLWL",
+  "correct_answer": "YELWLO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edcdde408a9b184a776bcc"
+  },
+  "exam_id": {
+    "$oid": "66edcdd8408a9b184a776ba7"
+  },
+  "question_text": "In a family of six, there are two fathers, two sons, and two brothers. How is this possible?",
+  "option_a": "It is a large extended family.",
+  "option_b": "There are multiple generations in the family.",
+  "option_c": "They are all male members of different families.",
+  "option_d": "They include a grandfather, father, and son.",
+  "correct_answer": "They include a grandfather, father, and son.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edcdde408a9b184a776bcd"
+  },
+  "exam_id": {
+    "$oid": "66edcdd8408a9b184a776ba7"
+  },
+  "question_text": "A clock shows 10:15. How many degrees does the hour hand move in the next hour?",
+  "option_a": "30 degrees",
+  "option_b": "90 degrees",
+  "option_c": "60 degrees",
+  "option_d": "45 degrees",
+  "correct_answer": "30 degrees",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edcdde408a9b184a776bce"
+  },
+  "exam_id": {
+    "$oid": "66edcdd8408a9b184a776ba7"
+  },
+  "question_text": "If x² - 5x + 6 = 0, what are the values of x?",
+  "option_a": "2 and 3",
+  "option_b": "1 and 6",
+  "option_c": "3 and 5",
+  "option_d": "2 and 5",
+  "correct_answer": "2 and 3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edcdde408a9b184a776bcf"
+  },
+  "exam_id": {
+    "$oid": "66edcdd8408a9b184a776ba7"
+  },
+  "question_text": "What is the remainder when 798 is divided by 5?",
+  "option_a": "0",
+  "option_b": "1",
+  "option_c": "2",
+  "option_d": "3",
+  "correct_answer": "3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edcdde408a9b184a776bd0"
+  },
+  "exam_id": {
+    "$oid": "66edcdd8408a9b184a776ba7"
+  },
+  "question_text": "Simplify: 9² ÷ 3 + 6 × 2",
+  "option_a": "45",
+  "option_b": "54",
+  "option_c": "81",
+  "option_d": "72",
+  "correct_answer": "45",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edcd2a408a9b184a776b9f"
+  },
+  "exam_id": {
+    "$oid": "66edcd2a408a9b184a776b9e"
+  },
+  "question_text": "Which of the following sorting algorithms has the best worst-case time complexity?",
+  "option_a": "Merge Sort",
+  "option_b": "Quick Sort",
+  "option_c": "Bubble Sort",
+  "option_d": "Insertion Sort",
+  "correct_answer": "Merge Sort"
+},
+{
+  "_id": {
+    "$oid": "66edcd2a408a9b184a776ba0"
+  },
+  "exam_id": {
+    "$oid": "66edcd2a408a9b184a776b9e"
+  },
+  "question_text": "Which gate in a digital circuit is known as the universal gate?",
+  "option_a": "NAND gate",
+  "option_b": "AND gate",
+  "option_c": "OR gate",
+  "option_d": "NOR gate",
+  "correct_answer": "NAND gate"
+},
+{
+  "_id": {
+    "$oid": "66edcd2a408a9b184a776ba1"
+  },
+  "exam_id": {
+    "$oid": "66edcd2a408a9b184a776b9e"
+  },
+  "question_text": "In an n-type semiconductor, the Fermi level is:",
+  "option_a": "Close to the conduction band",
+  "option_b": "Close to the valence band",
+  "option_c": "At the middle of the bandgap",
+  "option_d": "Inside the valence band",
+  "correct_answer": "Close to the conduction band"
+},
+{
+  "_id": {
+    "$oid": "66edcd2a408a9b184a776ba2"
+  },
+  "exam_id": {
+    "$oid": "66edcd2a408a9b184a776b9e"
+  },
+  "question_text": "The Laplace transform of a unit step function is:",
+  "option_a": "1/s",
+  "option_b": "1/s^2",
+  "option_c": "s",
+  "option_d": "1",
+  "correct_answer": "1/s"
+},
+{
+  "_id": {
+    "$oid": "66edcd2a408a9b184a776ba3"
+  },
+  "exam_id": {
+    "$oid": "66edcd2a408a9b184a776b9e"
+  },
+  "question_text": "In the context of signal processing, a low-pass filter allows:",
+  "option_a": "Only low frequencies to pass",
+  "option_b": "Only high frequencies to pass",
+  "option_c": "Both low and high frequencies to pass",
+  "option_d": "None of the frequencies to pass",
+  "correct_answer": "Only low frequencies to pass"
+},
+{
+  "_id": {
+    "$oid": "66edcd2a408a9b184a776ba4"
+  },
+  "exam_id": {
+    "$oid": "66edcd2a408a9b184a776b9e"
+  },
+  "question_text": "Which modulation scheme is most bandwidth-efficient for digital communication?",
+  "option_a": "QAM",
+  "option_b": "ASK",
+  "option_c": "FSK",
+  "option_d": "PSK",
+  "correct_answer": "QAM"
+},
+{
+  "_id": {
+    "$oid": "66edcd2a408a9b184a776ba5"
+  },
+  "exam_id": {
+    "$oid": "66edcd2a408a9b184a776b9e"
+  },
+  "question_text": "In fluid dynamics, the Reynold's number helps predict:",
+  "option_a": "Flow patterns in different fluid flow situations",
+  "option_b": "Thermal conductivity",
+  "option_c": "Fluid compressibility",
+  "option_d": "Wave speed in the fluid",
+  "correct_answer": "Flow patterns in different fluid flow situations"
+},
+{
+  "_id": {
+    "$oid": "66edcd2a408a9b184a776ba6"
+  },
+  "exam_id": {
+    "$oid": "66edcd2a408a9b184a776b9e"
+  },
+  "question_text": "Which of the following is a second-order differential equation?",
+  "option_a": "d²y/dx² + 3y = 0",
+  "option_b": "dy/dx + y = 0",
+  "option_c": "y + dx = 0",
+  "option_d": "d³y/dx³ + y = 0",
+  "correct_answer": "d²y/dx² + 3y = 0"
+},
+{
+  "_id": {
+    "$oid": "66edcd2a408a9b184a776ba7"
+  },
+  "exam_id": {
+    "$oid": "66edcd2a408a9b184a776b9e"
+  },
+  "question_text": "The Zener diode is primarily used for:",
+  "option_a": "Voltage regulation",
+  "option_b": "Rectification",
+  "option_c": "Current amplification",
+  "option_d": "Switching",
+  "correct_answer": "Voltage regulation"
+},
+{
+  "_id": {
+    "$oid": "66edcd2a408a9b184a776ba8"
+  },
+  "exam_id": {
+    "$oid": "66edcd2a408a9b184a776b9e"
+  },
+  "question_text": "Which of the following is the Fourier transform of a Dirac delta function?",
+  "option_a": "1",
+  "option_b": "δ(t)",
+  "option_c": "exp(jωt)",
+  "option_d": "A constant function",
+  "correct_answer": "1"
+},
+{
+  "_id": {
+    "$oid": "66edcd2a408a9b184a776ba9"
+  },
+  "exam_id": {
+    "$oid": "66edcd2a408a9b184a776b9e"
+  },
+  "question_text": "In thermodynamics, the Zeroth Law defines:",
+  "option_a": "Thermal equilibrium",
+  "option_b": "Conservation of energy",
+  "option_c": "The relationship between pressure and volume",
+  "option_d": "Change in entropy",
+  "correct_answer": "Thermal equilibrium"
+},
+{
+  "_id": {
+    "$oid": "66edcd2a408a9b184a776baa"
+  },
+  "exam_id": {
+    "$oid": "66edcd2a408a9b184a776b9e"
+  },
+  "question_text": "Which law states that the current through a conductor between two points is directly proportional to the voltage across the two points?",
+  "option_a": "Ohm's Law",
+  "option_b": "Kirchhoff's Law",
+  "option_c": "Faraday's Law",
+  "option_d": "Lenz's Law",
+  "correct_answer": "Ohm's Law"
+},
+{
+  "_id": {
+    "$oid": "66edcd2a408a9b184a776bab"
+  },
+  "exam_id": {
+    "$oid": "66edcd2a408a9b184a776b9e"
+  },
+  "question_text": "In machine learning, which of the following is a supervised learning algorithm?",
+  "option_a": "Linear regression",
+  "option_b": "K-means clustering",
+  "option_c": "Principal component analysis",
+  "option_d": "Autoencoder",
+  "correct_answer": "Linear regression"
+},
+{
+  "_id": {
+    "$oid": "66edcd2a408a9b184a776bac"
+  },
+  "exam_id": {
+    "$oid": "66edcd2a408a9b184a776b9e"
+  },
+  "question_text": "The Nyquist rate is related to:",
+  "option_a": "The minimum sampling rate required to avoid aliasing",
+  "option_b": "The bandwidth of a signal",
+  "option_c": "Signal-to-noise ratio",
+  "option_d": "The Fourier transform",
+  "correct_answer": "The minimum sampling rate required to avoid aliasing"
+},
+{
+  "_id": {
+    "$oid": "66edcd2a408a9b184a776bad"
+  },
+  "exam_id": {
+    "$oid": "66edcd2a408a9b184a776b9e"
+  },
+  "question_text": "In fluid mechanics, the Bernoulli equation is valid only when the flow is:",
+  "option_a": "Incompressible and non-viscous",
+  "option_b": "Compressible and viscous",
+  "option_c": "Turbulent",
+  "option_d": "Steady and non-turbulent",
+  "correct_answer": "Incompressible and non-viscous"
+},
+{
+  "_id": {
+    "$oid": "66edcd2a408a9b184a776bae"
+  },
+  "exam_id": {
+    "$oid": "66edcd2a408a9b184a776b9e"
+  },
+  "question_text": "In C programming, which of the following is a valid pointer declaration?",
+  "option_a": "int *p;",
+  "option_b": "int p;",
+  "option_c": "int &p;",
+  "option_d": "int p*;",
+  "correct_answer": "int *p;"
+},
+{
+  "_id": {
+    "$oid": "66edcd2a408a9b184a776baf"
+  },
+  "exam_id": {
+    "$oid": "66edcd2a408a9b184a776b9e"
+  },
+  "question_text": "Which of the following protocols is used for secure data transmission over the internet?",
+  "option_a": "HTTPS",
+  "option_b": "FTP",
+  "option_c": "HTTP",
+  "option_d": "SMTP",
+  "correct_answer": "HTTPS"
+},
+{
+  "_id": {
+    "$oid": "66edcd2a408a9b184a776bb0"
+  },
+  "exam_id": {
+    "$oid": "66edcd2a408a9b184a776b9e"
+  },
+  "question_text": "The Heaviside step function is often used in control systems to represent:",
+  "option_a": "A sudden change in input",
+  "option_b": "An oscillatory input",
+  "option_c": "A zero input",
+  "option_d": "A sinusoidal input",
+  "correct_answer": "A sudden change in input"
+},
+{
+  "_id": {
+    "$oid": "66edcd2a408a9b184a776bb1"
+  },
+  "exam_id": {
+    "$oid": "66edcd2a408a9b184a776b9e"
+  },
+  "question_text": "In radar systems, what does the Doppler effect help to detect?",
+  "option_a": "The relative velocity of an object",
+  "option_b": "The distance to an object",
+  "option_c": "The shape of an object",
+  "option_d": "The size of an object",
+  "correct_answer": "The relative velocity of an object"
+},
+{
+  "_id": {
+    "$oid": "66edcd2a408a9b184a776bb2"
+  },
+  "exam_id": {
+    "$oid": "66edcd2a408a9b184a776b9e"
+  },
+  "question_text": "Which of the following processes is used for manufacturing integrated circuits?",
+  "option_a": "Photolithography",
+  "option_b": "Die casting",
+  "option_c": "Injection molding",
+  "option_d": "Forging",
+  "correct_answer": "Photolithography"
+},
+{
+  "_id": {
+    "$oid": "66edcd2a408a9b184a776bb3"
+  },
+  "exam_id": {
+    "$oid": "66edcd2a408a9b184a776b9e"
+  },
+  "question_text": "Which of the following sorting algorithms is not stable?",
+  "option_a": "Quick Sort",
+  "option_b": "Merge Sort",
+  "option_c": "Bubble Sort",
+  "option_d": "Insertion Sort",
+  "correct_answer": "Quick Sort"
+},
+{
+  "_id": {
+    "$oid": "66edcd2a408a9b184a776bb4"
+  },
+  "exam_id": {
+    "$oid": "66edcd2a408a9b184a776b9e"
+  },
+  "question_text": "In control systems, which controller introduces an anticipatory action?",
+  "option_a": "Derivative controller",
+  "option_b": "Proportional controller",
+  "option_c": "Integral controller",
+  "option_d": "PID controller",
+  "correct_answer": "Derivative controller"
+},
+{
+  "_id": {
+    "$oid": "66edcd2a408a9b184a776bb5"
+  },
+  "exam_id": {
+    "$oid": "66edcd2a408a9b184a776b9e"
+  },
+  "question_text": "Which of the following types of memory is volatile?",
+  "option_a": "RAM",
+  "option_b": "ROM",
+  "option_c": "Flash memory",
+  "option_d": "EEPROM",
+  "correct_answer": "RAM"
+},
+{
+  "_id": {
+    "$oid": "66edcd2a408a9b184a776bb6"
+  },
+  "exam_id": {
+    "$oid": "66edcd2a408a9b184a776b9e"
+  },
+  "question_text": "The Viterbi algorithm is used in:",
+  "option_a": "Error-correcting codes",
+  "option_b": "Sorting algorithms",
+  "option_c": "Image processing",
+  "option_d": "Neural networks",
+  "correct_answer": "Error-correcting codes"
+},
+{
+  "_id": {
+    "$oid": "66edcd2a408a9b184a776bb7"
+  },
+  "exam_id": {
+    "$oid": "66edcd2a408a9b184a776b9e"
+  },
+  "question_text": "In graph theory, which of the following algorithms is used to find the shortest path in a graph?",
+  "option_a": "Dijkstra's algorithm",
+  "option_b": "Quick Sort",
+  "option_c": "Merge Sort",
+  "option_d": "Kruskal's algorithm",
+  "correct_answer": "Dijkstra's algorithm"
+},
+{
+  "_id": {
+    "$oid": "66edcd2a408a9b184a776bb8"
+  },
+  "exam_id": {
+    "$oid": "66edcd2a408a9b184a776b9e"
+  },
+  "question_text": "In communication systems, Shannon's theorem relates to:",
+  "option_a": "Channel capacity",
+  "option_b": "Error detection",
+  "option_c": "Modulation techniques",
+  "option_d": "Bandwidth allocation",
+  "correct_answer": "Channel capacity"
+},
+{
+  "_id": {
+    "$oid": "66edcd2a408a9b184a776bb9"
+  },
+  "exam_id": {
+    "$oid": "66edcd2a408a9b184a776b9e"
+  },
+  "question_text": "In operating systems, which scheduling algorithm allows processes to be executed in the order of their arrival?",
+  "option_a": "First-Come, First-Served (FCFS)",
+  "option_b": "Round Robin",
+  "option_c": "Priority Scheduling",
+  "option_d": "Shortest Job Next",
+  "correct_answer": "First-Come, First-Served (FCFS)"
+},
+{
+  "_id": {
+    "$oid": "66edcd2a408a9b184a776bba"
+  },
+  "exam_id": {
+    "$oid": "66edcd2a408a9b184a776b9e"
+  },
+  "question_text": "In a database, which of the following is used to ensure that transactions are processed reliably?",
+  "option_a": "ACID properties",
+  "option_b": "Normalization",
+  "option_c": "Indexing",
+  "option_d": "SQL Queries",
+  "correct_answer": "ACID properties"
+},
+{
+  "_id": {
+    "$oid": "66edcd2a408a9b184a776bbb"
+  },
+  "exam_id": {
+    "$oid": "66edcd2a408a9b184a776b9e"
+  },
+  "question_text": "Which of the following is a hashing algorithm commonly used in cryptography?",
+  "option_a": "SHA-256",
+  "option_b": "AES",
+  "option_c": "RSA",
+  "option_d": "DES",
+  "correct_answer": "SHA-256"
+},
+{
+  "_id": {
+    "$oid": "66edcd2a408a9b184a776bbc"
+  },
+  "exam_id": {
+    "$oid": "66edcd2a408a9b184a776b9e"
+  },
+  "question_text": "In software engineering, which design pattern is used to provide a simplified interface to a complex system?",
+  "option_a": "Facade Pattern",
+  "option_b": "Singleton Pattern",
+  "option_c": "Observer Pattern",
+  "option_d": "Decorator Pattern",
+  "correct_answer": "Facade Pattern"
+},
+{
+  "_id": {
+    "$oid": "66edcd2a408a9b184a776bbd"
+  },
+  "exam_id": {
+    "$oid": "66edcd2a408a9b184a776b9e"
+  },
+  "question_text": "Which type of memory allows both read and write operations, but loses its content when power is turned off?",
+  "option_a": "RAM",
+  "option_b": "ROM",
+  "option_c": "EEPROM",
+  "option_d": "Flash Memory",
+  "correct_answer": "RAM"
+}]

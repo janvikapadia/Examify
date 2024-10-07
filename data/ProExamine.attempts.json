@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "66edd383408a9b184a776c3d"
+  },
+  "user_id": {
+    "$oid": "66e84c3fbe5291374d4a6dde"
+  },
+  "exam_id": {
+    "$oid": "66edbecbd517f6a9c0f349a4"
+  },
+  "score": 18,
+  "no_of_unattempted": 7,
+  "time_taken": 191,
+  "no_of_wrong_questions": 4,
+  "no_of_right_questions": 11,
+  "no_of_questions_attempted": 15,
+  "date": {
+    "$date": "2024-09-20T19:56:51.154Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edd489408a9b184a776c5f"
+  },
+  "user_id": {
+    "$oid": "66e84c3fbe5291374d4a6de1"
+  },
+  "exam_id": {
+    "$oid": "66edbecbd517f6a9c0f349a4"
+  },
+  "score": 12,
+  "no_of_unattempted": 10,
+  "time_taken": 64,
+  "no_of_wrong_questions": 4,
+  "no_of_right_questions": 8,
+  "no_of_questions_attempted": 12,
+  "date": {
+    "$date": "2024-09-20T20:01:13.595Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edd4f7408a9b184a776c81"
+  },
+  "user_id": {
+    "$oid": "66e84c3fbe5291374d4a6de2"
+  },
+  "exam_id": {
+    "$oid": "66edbecbd517f6a9c0f349a4"
+  },
+  "score": 1,
+  "no_of_unattempted": 8,
+  "time_taken": 87,
+  "no_of_wrong_questions": 9,
+  "no_of_right_questions": 5,
+  "no_of_questions_attempted": 14,
+  "date": {
+    "$date": "2024-09-20T20:03:03.746Z"
+  },
+  "__v": 0
+}]
