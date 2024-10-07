@@ -1,0 +1,95 @@
+[{
+  "_id": {
+    "$oid": "66cd8ef2e8cdd8af6eb1131a"
+  },
+  "exam_name": "JEE MAIN",
+  "exam_desc": "Joint Entrance Examination – Main, formerly All India Engineering Entrance Examination, is an Indian standardized computer-based test for admission to various technical undergraduate programs in engineering, architecture, and planning across colleges in India.",
+  "exam_time": "00:55",
+  "exam_date": {
+    "$date": "2024-09-21T19:25:27.740Z"
+  },
+  "exam_duration": 180,
+  "exam_total_marks": 360,
+  "exam_total_questions": 90,
+  "status": "Live"
+},
+{
+  "_id": {
+    "$oid": "66edbecbd517f6a9c0f349a4"
+  },
+  "exam_name": "GATE",
+  "exam_desc": "The Graduate Aptitude Test in Engineering (GATE) is a national-level examination conducted by the Indian Institute of Technology (IIT) Kharagpur on behalf of the National Coordination Board (NCB)-GATE",
+  "exam_time": "05:29",
+  "exam_date": {
+    "$date": "2024-09-20T23:59:23.919Z"
+  },
+  "exam_duration": 180,
+  "exam_total_marks": 100,
+  "exam_total_questions": 3,
+  "status": "Completed",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edc698408a9b184a776b41"
+  },
+  "exam_name": "JEE MAIN",
+  "exam_desc": "Joint Entrance Examination – Main, formerly All India Engineering Entrance Examination, is an Indian standardized computer-based test for admission to various technical undergraduate programs in engineering, architecture, and planning across colleges in India.",
+  "exam_time": "00:35",
+  "exam_date": {
+    "$date": "2024-09-21T00:35:00.000Z"
+  },
+  "exam_duration": 180,
+  "exam_total_marks": 300,
+  "exam_total_questions": 3,
+  "status": "Upcoming",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edcc88408a9b184a776b80"
+  },
+  "exam_name": "CAT",
+  "exam_desc": "The Common Admission Test is a computer based test for admission in graduate management programs. The test consists of three sections: Verbal Ability and Reading Comprehension, Data Interpretation and Logical Reasoning and Quantitative Ability.",
+  "exam_time": "03:00",
+  "exam_date": {
+    "$date": "2024-09-25T03:00:00.000Z"
+  },
+  "exam_duration": 120,
+  "exam_total_marks": 198,
+  "exam_total_questions": 3,
+  "status": "Upcoming",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edcd2a408a9b184a776b9e"
+  },
+  "exam_name": "GATE",
+  "exam_desc": "The Graduate Aptitude Test in Engineering (GATE) is a national-level examination conducted by the Indian Institute of Technology (IIT) Kharagpur on behalf of the National Coordination Board (NCB)-GATE",
+  "exam_time": "18:22",
+  "exam_date": {
+    "$date": "2024-09-30T18:22:00.000Z"
+  },
+  "exam_duration": 180,
+  "exam_total_marks": 100,
+  "exam_total_questions": 3,
+  "status": "Upcoming",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66edcdd8408a9b184a776ba7"
+  },
+  "exam_name": "CAT",
+  "exam_desc": "The Common Admission Test is a computer based test for admission in graduate management programs. The test consists of three sections: Verbal Ability and Reading Comprehension, Data Interpretation and Logical Reasoning and Quantitative Ability.",
+  "exam_time": "01:07",
+  "exam_date": {
+    "$date": "2024-10-09T01:07:00.000Z"
+  },
+  "exam_duration": 120,
+  "exam_total_marks": 198,
+  "exam_total_questions": 3,
+  "status": "Upcoming",
+  "__v": 0
+}]
