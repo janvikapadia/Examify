@@ -73,7 +73,7 @@ Follow these steps to set up Examify on your local machine.
 
 5. **Access the application:**
 
-   The frontend will be running on [http://localhost:3000](http://localhost:3000) and the backend on [http://localhost:5000](http://localhost:5000).
+   The frontend will be running on [http://localhost:3001](http://localhost:3000) and the backend on [http://localhost:3000](http://localhost:5000).
 
 ## Screenshots
 
