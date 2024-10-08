@@ -81,11 +81,11 @@ Follow these steps to set up Examify on your local machine.
 ![Home Page](./screenshots/homepage.png)
 
 ### 2. Exam Interface
-![Exam Interface](./screenshots/Screenshot 2024-10-07 144207.png)
+![Exam Interface](./screenshots/interface.png)
 
 ### 3. Cheating Detection Warning
-![Cheating Detection](./screenshots/Screenshot 2024-10-07 144321.png)
-![Cheating Detection](./screenshots/Screenshot 2024-10-07 144332.png)
+![Cheating Detection](./screenshots/detection1.png)
+![Cheating Detection](./screenshots/detection2.png)
 
 ## Contribution
 
