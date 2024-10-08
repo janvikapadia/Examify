@@ -77,7 +77,15 @@ Follow these steps to set up Examify on your local machine.
 
 ## Screenshots
 
-*Include some screenshots of your app here to show its features.*
+### 1. Home Page
+![Home Page](./screenshots/homepage.png)
+
+### 2. Exam Interface
+![Exam Interface](./screenshots/interface.png)
+
+### 3. Cheating Detection Warning
+![Cheating Detection](./screenshots/detection1.png)
+![Cheating Detection](./screenshots/detection2.png)
 
 ## Contribution
 
