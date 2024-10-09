@@ -1,11 +1,9 @@
 # Examify
 
-**Examify** is a MERN stack-based platform designed to conduct MCQ-based exams. It currently supports JEE, CAT, and GATE exams, providing a free resource for students to attempt mock exams. Institutions can also use Examify to conduct formal exams by purchasing the product.
+**Examify** is a MERN stack-based platform designed to conduct MCQ-based exams. It currently supports JEE, CAT, and GATE exams, providing a free resource for students to attempt mock exams. Institutions can also use Examify to conduct formal exams.
 
 ## Features
 
-- **Mock Exams**: Students can attempt free mock exams for JEE, CAT, and GATE.
-- **Institutions**: Institutions can buy the product to conduct formal exams for the same.
 - **Real-time MCQ Exams**: Conduct multiple-choice exams with time limits, automatic scoring, and immediate results.
 - **Cheating Detection**: Tracks tab switching and auto-submits the exam after multiple warnings, helping ensure fair exams.
 - **Responsive UI**: Easy-to-use interface for both students and institutions, designed with accessibility and simplicity in mind.
@@ -31,7 +29,7 @@ Follow these steps to set up Examify on your local machine.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/examify.git
+   git clone https://github.com/janvikapadia/Examify.git
    cd examify
    ```
 
@@ -73,17 +71,25 @@ Follow these steps to set up Examify on your local machine.
 
 5. **Access the application:**
 
-   The frontend will be running on [http://localhost:3001](http://localhost:3000) and the backend on [http://localhost:3000](http://localhost:5000).
+   The frontend will be running on [http://localhost:3000](http://localhost:3000) and the backend on [http://localhost:5000](http://localhost:5000).
 
 ## Screenshots
 
 ### 1. Home Page
 ![Home Page](./screenshots/homepage.png)
 
-### 2. Exam Interface
+### 2. Admin Interface
+![Exam Interface](./screenshots/admininterface1.png)
+![Exam Interface](./screenshots/admininterface2.png)
+
+### 3. Student Interface
+![Exam Interface](./screenshots/studentinterface1.png)
+![Exam Interface](./screenshots/studentinterface2.png)
+
+### 4. Exam Interface
 ![Exam Interface](./screenshots/interface.png)
 
-### 3. Cheating Detection Warning
+### 5. Cheating Detection Warning
 ![Cheating Detection](./screenshots/detection1.png)
 ![Cheating Detection](./screenshots/detection2.png)
 
