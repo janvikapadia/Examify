@@ -81,15 +81,14 @@ Follow these steps to set up Examify on your local machine.
 ### 2. Admin Interface
 ![Exam Interface](./screenshots/admininterface1.png)
 ![Exam Interface](./screenshots/admininterface2.png)
+![Exam Interface](./screenshots/admininterface3.png)
+![Exam Interface](./screenshots/admininterface4.png)
 
 ### 3. Student Interface
 ![Exam Interface](./screenshots/studentinterface1.png)
 ![Exam Interface](./screenshots/studentinterface2.png)
 
-### 4. Exam Interface
-![Exam Interface](./screenshots/interface.png)
-
-### 5. Cheating Detection Warning
+### 4. Cheating Detection Warning
 ![Cheating Detection](./screenshots/detection1.png)
 ![Cheating Detection](./screenshots/detection2.png)
 
