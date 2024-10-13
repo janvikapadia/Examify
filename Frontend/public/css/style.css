@@ -843,3 +843,192 @@ label {
 .custom-modal-button:hover {
   background-color: #388E3C;
 }
+
+
+
+
+
+
+
+.Ad-button {
+  background-color: #3D52A0;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 0.5rem 0rem;
+  cursor: pointer;
+  width: 120px;
+  font-size: 1.5rem;
+  border: 2px solid black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.filter-dropdown {
+  margin-top: 120px;
+  margin-bottom: -80px;
+  margin-left: 50px;
+  display: flex;
+  /* Use flexbox for alignment */
+  align-items: center;
+  /* Center items vertically */
+}
+
+.filter-dropdown label {
+  font-weight: bold;
+  /* Bold text for the label */
+  color: #333;
+  /* Dark color for better readability */
+  font-size: 1.2rem;
+  /* Increased font size */
+  margin-right: 10px;
+  /* Add some space between label and dropdown */
+}
+
+.filter-dropdown select {
+  border: 2px solid;
+  /* Border color matching button */
+  border-radius: 0.5rem;
+  /* Increased border radius for larger look */
+  padding: 0.75rem 1.5rem;
+  /* Increased padding for better touch area */
+  font-size: 1.2rem;
+  /* Increased font size for readability */
+  outline: none;
+  /* Remove default outline */
+  cursor: pointer;
+  /* Change cursor on hover */
+  transition: border-color 0.3s;
+  /* Smooth transition on focus */
+}
+
+.filter-dropdown select:focus {
+  border-color: #BB8FCE;
+  /* Lighter border color on focus */
+  box-shadow: 0 0 0 3px rgba(187, 143, 206, 0.5);
+  /* Subtle shadow for focus */
+}
+
+.filter-dropdown select option {
+  padding: 0.75rem;
+  /* Increased padding for options */
+  background-color: #fff;
+  /* Background color for dropdown */
+  color: #333;
+  /* Text color for options */
+}
+
+.filter-dropdown select option:hover {
+  background-color: #f0f0f0;
+  /* Background color on hover */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Choice Modal Styles */
+.choice-modal {
+  background-color: #f9f9f9;
+  /* Light background for contrast */
+  border: 2px solid #909091;
+  /* Blue border */
+  border-radius: 8px;
+  /* Rounded corners */
+  padding: 20px;
+  /* Padding inside the modal */
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  /* Subtle shadow for depth */
+  text-align: center;
+  /* Center text */
+}
+
+.choice-modal h2 {
+  color: #333;
+  /* Darker text for header */
+  margin-bottom: 10px;
+  /* Space below the header */
+}
+
+.choice-modal p {
+  color: #555;
+  /* Slightly lighter text for paragraph */
+  margin-bottom: 20px;
+  /* Space below paragraph */
+}
+
+.choice-modal .Ad-button {
+  background-color: #007bff;
+  /* Button color */
+  color: #fff;
+  /* White text */
+  border: none;
+  /* Remove default border */
+  border-radius: 5px;
+  /* Rounded button corners */
+  /* padding: 10px 20px; */
+  /* Padding inside buttons */
+  cursor: pointer;
+  /* Pointer cursor on hover */
+  transition: background-color 0.3s;
+  /* Smooth transition on hover */
+  margin: 10px 10px;
+  /* Space above and below buttons */
+}
+
+.choice-modal .Ad-button:hover {
+  background-color: #0056b3;
+  /* Darker blue on hover */
+}
+
+
+
+
+
+
+
+
+
+
+.btn-custom2 {
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+  color: white;
+  background-color: #5887ff;
+
+
+  padding: 14px 34px;
+  letter-spacing: 1px;
+  margin: 0;
+  font-size: 15px;
+  font-weight: 500;
+  border-radius: 25px;
+  transition: all 0.5s linear;
+  border: 0;
+
+}
+
+.btn-custom2:hover {
+  color: white;
+  background-color: #007bff;
+}
