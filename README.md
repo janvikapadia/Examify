@@ -1,31 +1,33 @@
-# Examify
 
-**Examify** is a MERN stack-based platform designed to conduct MCQ-based exams. It currently supports JEE, CAT, and GATE exams, providing a free resource for students to attempt mock exams. Institutions can also use Examify to conduct formal exams.
+# Examify 🎓📚
 
-## Features
+**Examify** is a MERN stack-based platform designed to conduct **MCQ-based exams**. It currently supports **JEE, CAT, and GATE exams**, offering a **free resource** for students to practice mock exams. Institutions can also leverage Examify to organize formal exams, providing a comprehensive tool for online assessments.
 
-- **Real-time MCQ Exams**: Conduct multiple-choice exams with time limits, automatic scoring, and immediate results.
-- **Cheating Detection**: Tracks tab switching and auto-submits the exam after multiple warnings, helping ensure fair exams.
-- **Responsive UI**: Easy-to-use interface for both students and institutions, designed with accessibility and simplicity in mind.
+## 🚀 Features
 
-## Technologies Used
+- **📅 Real-time MCQ Exams**: Conduct multiple-choice exams with set time limits, automatic scoring, and instant results.
+- **🚨 Cheating Detection**: Track tab switching and auto-submit the exam after multiple warnings, ensuring fair examination.
+- **💻 Responsive UI**: Designed for both students and institutions, with a user-friendly interface focused on accessibility and simplicity.
 
-- **Frontend**: React.js
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Other**: Tailwind CSS for styling, JWT for authentication
+## 🛠️ Technologies Used
 
-## Installation
+- **Frontend**: React.js ⚛️
+- **Backend**: Node.js, Express.js 🛠️
+- **Database**: MongoDB 🍃
+- **Other**: Tailwind CSS for styling 🎨, JWT for authentication 🔒
+
+## 💻 Installation
 
 Follow these steps to set up Examify on your local machine.
 
 ### Prerequisites
 
-- Node.js (v14+)
-- MongoDB
-- npm or yarn
+- **Node.js** (v14+)
+- **MongoDB**
+- **Git**
+- **npm** or **yarn**
 
-### Steps
+### 🚧 Setup Guide
 
 1. **Clone the repository:**
    ```bash
@@ -35,14 +37,14 @@ Follow these steps to set up Examify on your local machine.
 
 2. **Install dependencies:**
 
-   - For the backend:
+   - **Backend**:
      ```bash
      cd backend
      npm install
      npm install express mongoose nodemon bcryptjs jsonwebtoken cors dotenv cookie-parser axios
      ```
 
-   - For the frontend:
+   - **Frontend**:
      ```bash
      cd ../frontend
      npm install
@@ -51,55 +53,61 @@ Follow these steps to set up Examify on your local machine.
 
 3. **Configure environment variables:**
 
-   Create a `.env` file in the backend folder and add the following:
+   In the `backend` folder, create a `.env` file and add the following:
    ```bash
    MONGO_URI = your_mongodb_uri
    PORT = 5000
    KEY = jwttokenkey
-   
+   Email = your_email
+   PASS = your_pass
    ```
 
-4. **Run the project:**
+   📨 **Email Setup**:
+    - Update `sender_email` and `sender_password` in **mail.py**.
+    - Watch this [tutorial](https://youtube.com/shorts/n9Ooxum-iUo?si=uwrhEo26S_Qj9zsC) for guidance.
 
-   - Start the backend server:
+4. **Run the project**:
+
+   - **Start the backend server**:
      ```bash
      cd backend
      npm start
      ```
 
-   - Start the frontend server:
+   - **Start the frontend server**:
      ```bash
      cd ../frontend
      npm start
      ```
 
-5. **Access the application:**
+5. **Access the application**:
 
-   The frontend will be running on [http://localhost:3000](http://localhost:3000) and the backend on [http://localhost:5000](http://localhost:5000).
+   - Frontend: [http://localhost:3000](http://localhost:3000) 🌐
+   - Backend: [http://localhost:5000](http://localhost:5000) 🚀
 
-## Screenshots
+## 📸 Screenshots
 
 ### 1. Home Page
 ![Home Page](./screenshots/homepage.png)
 
 ### 2. Admin Interface
-![Exam Interface](./screenshots/admininterface1.png)
-![Exam Interface](./screenshots/admininterface2.png)
-![Exam Interface](./screenshots/admininterface3.png)
-![Exam Interface](./screenshots/admininterface4.png)
+![Admin Interface 1](./screenshots/admininterface1.png)
+![Admin Interface 2](./screenshots/admininterface2.png)
+![Admin Interface 3](./screenshots/admininterface3.png)
+![Admin Interface 4](./screenshots/admininterface4.png)
 
 ### 3. Student Interface
-![Exam Interface](./screenshots/studentinterface1.png)
-![Exam Interface](./screenshots/studentinterface2.png)
+![Student Interface 1](./screenshots/studentinterface1.png)
+![Student Interface 2](./screenshots/studentinterface2.png)
 
 ### 4. Cheating Detection Warning
-![Cheating Detection](./screenshots/detection1.png)
-![Cheating Detection](./screenshots/detection2.png)
+![Cheating Detection 1](./screenshots/detection1.png)
+![Cheating Detection 2](./screenshots/detection2.png)
 
-## Contribution
+## 🤝 Contribution
 
-Feel free to fork the repository, make changes, and submit a pull request.
+Feel free to **fork** the repository, make changes, and submit a pull request. Contributions are welcome! 🌟
 
-## License
+## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
