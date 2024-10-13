@@ -17,7 +17,7 @@ app.use("/student", Student);
 app.use("/exam", Exam)
 app.use('/admin', Admin)
 
-mongoose.connect("mongodb://127.0.0.1:27017/Examify");
+mongoose.connect(process.env.MONGO_URI);
 
 app.listen(process.env.PORT, () => {
   console.log("Server is Running");
