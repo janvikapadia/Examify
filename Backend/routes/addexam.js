@@ -9,8 +9,8 @@ import nodemailer from "nodemailer";
 const transporter = nodemailer.createTransport({
     service: 'gmail', // Example using Gmail, but you can configure any SMTP service
     auth: {
-        user: "tomjerry85204@gmail.com",
-        pass: "ilof accf fqhs inhj",
+        user: process.env.Email,
+        pass: process.env.PASS,
     },
 });
 
@@ -47,24 +47,6 @@ app.post('/exams', async (req, res) => {
 });
 
 
-// app.put('/update/:id', async (req, res) => {
-//     try {
-//         const { id } = req.params;
-//         const updatedExam = req.body;
-//         // console.log(Updating exam with ID: ${id}, updatedExam);
-
-//         const exam = await Exam.findOneAndUpdate({ _id: id }, updatedExam, { new: true, runValidators: true });
-
-//         if (!exam) {
-//             return res.status(404).json({ message: 'Exam not found' });
-//         }
-
-//         res.status(200).json(exam);
-//     } catch (error) {
-//         console.error('Error updating exam:', error);
-//         res.status(500).json({ message: 'Failed to update exam' });
-//     }
-// });
 
 
 app.put('/update/:id', async (req, res) => {
@@ -86,7 +68,7 @@ app.put('/update/:id', async (req, res) => {
             // Send an email to each student
             students.forEach(student => {
                 const mailOptions = {
-                    from: "tomjerry85204@gmail.com", 
+                    from: process.env.Email, 
                     to: student.email, 
                     subject: `Exam ${exam.exam_name} is Now Live!`,
                     text: `Dear ${student.username},\n\nThe exam "${exam.exam_name}" is now live. \n\nDate: ${new Date(exam.exam_date).toLocaleDateString()} \nTime: ${new Date(exam.exam_date).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}.\n\nYou can start attempting it.\nBest of luck!\n\nRegards,\nExam Admin`,

@@ -30,25 +30,6 @@ router.post("/signup", async (req, res) => {
   return res.json({ status: true, message: "record registered" });
 });
 
-// router.post("/login", async (req, res) => {
-//   const { email, password } = req.body;
-//   const user = await User.findOne({ email });
-//   if (!user) {
-//     return res.json({ message: "Email is not registered!" });
-//   }
-
-//   const validPassword = await bcryt.compare(password, user.password);
-//   if (!validPassword) {
-//     return res.json({ message: "Password is incorrect!" });
-//   }
-
-//   const token = jwt.sign({ username: user.username }, process.env.KEY, {
-//     expiresIn: "1h",
-//   });
-
-//   res.cookie("token", token, { httpOnly: true, maxAge: 360000 });
-//   return res.json({ status: true, message: "Login Successfully" });
-// });
 
 router.post("/forgot-password", async (req, res) => {
   const { email } = req.body;
@@ -64,16 +45,16 @@ router.post("/forgot-password", async (req, res) => {
     var transporter = nodemailer.createTransport({
       service: "gmail",
       auth: {
-        user: "tomjerry85204@gmail.com",
-        pass: "ilof accf fqhs inhj",
+        user: process.env.Email,
+        pass: process.env.PASS,
       },
     });
 
     var mailOptions = {
-      from: "tomjerry85204@gmail.com",
+      from: process.env.Email,
       to: email,
       subject: "Reset Password",
-      text: `http://localhost:3001/resetPassword/${token}`,
+      text: `http://localhost:3000/resetPassword/${token}`,
     };
 
     transporter.sendMail(mailOptions, function (error, info) {
@@ -102,7 +83,7 @@ router.post("/reset-password/:token", async (req, res) => {
   }
 });
 
-const RECAPTCHA_SECRET_KEY = "6LdNBC8qAAAAAMr21oHfcZTqNMEPbm7qrhGK5joo";
+
 
 router.post("/login", async (req, res) => {
   const { email, password, captcha } = req.body;
@@ -115,7 +96,7 @@ router.post("/login", async (req, res) => {
       null,
       {
         params: {
-          secret: RECAPTCHA_SECRET_KEY,
+          secret: process.env.RECAPTCHA_SECRET_KEY,
           response: captcha,
         },
       }
