@@ -53,8 +53,10 @@ Follow these steps to set up Examify on your local machine.
 
    Create a `.env` file in the backend folder and add the following:
    ```bash
-   MONGO_URI=your_mongodb_uri
-   JWT_SECRET=your_jwt_secret
+   MONGO_URI = your_mongodb_uri
+   PORT = 5000
+   KEY = jwttokenkey
+   
    ```
 
 4. **Run the project:**
