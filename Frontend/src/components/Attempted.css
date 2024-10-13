@@ -1,0 +1,65 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.exam-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+    margin-top: 100px; 
+}
+
+.exam-card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    transition: transform 0.3s ease;
+}
+
+.exam-card:hover {
+    transform: translateY(-5px);
+}
+
+.exam-details {
+    display: flex;
+    gap: 30px;
+    font-size: 16px;
+}
+
+.exam-name {
+    font-weight: bold;
+    color: #333;
+}
+
+.exam-date, .exam-time {
+    color: #555;
+    margin-left: 250px;
+    margin-top: 8px;
+}
+
+.exam-actions {
+    display: flex;
+    gap: 15px;
+}
+
+.review-button {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    background-color: #43bb14;
+    transition: background-color 0.3s ease;
+    margin-bottom: 10px;
+}
+
+.review-button:hover {
+    background-color: #246809;
+}
+
