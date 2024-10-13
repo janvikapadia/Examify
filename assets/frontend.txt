@@ -1,4 +1,0 @@
-axios
-react-router-dom
-react-toastify@8.1.0
-react-google-recaptcha

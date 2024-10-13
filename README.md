@@ -39,12 +39,14 @@ Follow these steps to set up Examify on your local machine.
      ```bash
      cd backend
      npm install
+     npm install express mongoose nodemon bcryptjs jsonwebtoken cors dotenv cookie-parser axios
      ```
 
    - For the frontend:
      ```bash
      cd ../frontend
      npm install
+     npm install axios react-router-dom react-toastify@8.1.0 react-google-recaptcha
      ```
 
 3. **Configure environment variables:**
