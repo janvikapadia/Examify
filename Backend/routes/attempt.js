@@ -103,4 +103,35 @@ router.get('/details/:examId', async (req, res) => {
 
 
 
+router.post('/submit-results', async (req, res) => {
+    const { userId, examId, score, timeTaken, noOfWrongQuestions, noOfRightQuestions, noOfQuestionsAttempted, noOfUnattempted } = req.body;
+
+    try {
+        // Find and update the attempt record for the given user and exam
+        const updatedAttempt = await Attempt.findOneAndUpdate(
+            { user_id: userId, exam_id: examId },
+            {
+                score,
+                time_taken: timeTaken,
+                no_of_wrong_questions: noOfWrongQuestions,
+                no_of_right_questions: noOfRightQuestions,
+                no_of_questions_attempted: noOfQuestionsAttempted,
+                no_of_unattempted: noOfUnattempted
+            },
+            { new: true } // Return the updated document
+        );
+
+        if (!updatedAttempt) {
+            return res.status(404).json({ message: 'Attempt record not found' });
+        }
+
+        res.status(200).json({ message: 'Results updated successfully', updatedAttempt });
+    } catch (error) {
+        console.error('Error updating exam results:', error);
+        res.status(500).json({ message: 'Error updating exam results' });
+    }
+});
+
+
+
 export { router as Exam };  
