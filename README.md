@@ -4,12 +4,12 @@
 **Examify** is a MERN stack-based platform designed to conduct **MCQ-based exams**. It currently supports **JEE, CAT, and GATE exams**, offering a **free resource** for students to practice mock exams. Institutions can also leverage Examify to organize formal exams, providing a comprehensive tool for online assessments.
 
 ## 📋 Table of Contents
-1. [🚀 Features](#features)
+1. [Features](#🚀 Features)
 2. [Technologies Used](#technologies-used)
 3. [Installation](#installation)
    - [Prerequisites](#prerequisites)
    - [Setup Guide](#setup-guide)
-4. [📸 Screenshots](#screenshots)
+4. [Screenshots](#screenshots)
 5. [Contribution](#contribution)
 6. [License](#license)
 
