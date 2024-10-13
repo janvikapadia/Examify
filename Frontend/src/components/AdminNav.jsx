@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import logo from './icon.svg';
+import logo from './exam2.svg';
 import { Link } from 'react-router-dom';
 import axios from 'axios';
 
@@ -21,6 +21,7 @@ export const AdminNav = ({ onTabChange }) => {
 
     return (
         <nav id="menu" className="navbar navbar-default navbar-fixed-top">
+            
             <div className="container">
                 <div className="navbar-header">
                     <button
@@ -35,7 +36,7 @@ export const AdminNav = ({ onTabChange }) => {
                         <span className="icon-bar"></span>
                         <span className="icon-bar"></span>
                     </button>
-                    <img src={logo} alt="ProExamine Logo" className="App-logo" />
+                    {/* <img src={logo} alt="Examify Logo" className="App-logo" /> */}
 
                     <Link to="/" className="navbar-brand page-scroll">Examify</Link>
                 </div>

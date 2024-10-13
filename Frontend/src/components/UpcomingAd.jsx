@@ -1,6 +1,3 @@
-
-
-
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import { ToastContainer, toast } from "react-toastify";
@@ -36,10 +33,6 @@ export const UpcomingAd = ({ buttonColor1 = '#a20ee0', buttonText1 = 'LIVE', but
     }, []);
 
 
-
-
-
-
     // Filter exams based on selected exam type
     useEffect(() => {
         if (selectedExamType === 'All') {
@@ -52,9 +45,6 @@ export const UpcomingAd = ({ buttonColor1 = '#a20ee0', buttonText1 = 'LIVE', but
     const handleExamTypeChange = (e) => {
         setSelectedExamType(e.target.value);
     };
-
-
-    
 
 
 
@@ -71,24 +61,7 @@ export const UpcomingAd = ({ buttonColor1 = '#a20ee0', buttonText1 = 'LIVE', but
         }
     };
 
-    // const handleLiveClick = async (exam) => {
-    //     try {
-    //         const updatedExam = {
-    //             ...exam,
-    //             status: "Live"
-    //         };
-
-    //         await axios.put(`http://localhost:3000/admin/update/${exam._id}`, updatedExam);
-
-    //         setUpcomingExams(prevExams => prevExams.filter(e => e._id !== exam._id));
-    //     } catch (error) {
-    //         console.error('Error updating exam:', error);
-    //     }
-    // };
-
-
-
-
+    
     const handleLiveClick = async (exam) => {
         try {
             const updatedExam = {
@@ -108,18 +81,6 @@ export const UpcomingAd = ({ buttonColor1 = '#a20ee0', buttonText1 = 'LIVE', but
             toast.error("Failed to make the exam live!");
         }
     };
-
-    // const handleDeleteClick = async (examId) => {
-    //     try {
-    //         await axios.delete(`http://localhost:3000/admin/delete/${examId}`);
-    //         toast.success("Exam Deleted!");
-
-    //         // Remove the deleted exam from the state
-    //         setUpcomingExams(prevExams => prevExams.filter(e => e._id !== examId));
-    //     } catch (error) {
-    //         console.error('Error deleting exam:', error);
-    //     }
-    // };
 
 
     const handleDeleteClick = async (examId) => {
@@ -182,4 +143,6 @@ export const UpcomingAd = ({ buttonColor1 = '#a20ee0', buttonText1 = 'LIVE', but
         </div >
     );
 };
+
+
 
