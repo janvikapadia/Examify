@@ -4,7 +4,7 @@
 **Examify** is a MERN stack-based platform designed to conduct **MCQ-based exams**. It currently supports **JEE, CAT, and GATE exams**, offering a **free resource** for students to practice mock exams. Institutions can also leverage Examify to organize formal exams, providing a comprehensive tool for online assessments.
 
 ## 📋 Table of Contents
-1. [Features](#🚀Features)
+1. [Features](#Features)
 2. [Technologies Used](#technologies-used)
 3. [Installation](#installation)
    - [Prerequisites](#prerequisites)
@@ -13,20 +13,20 @@
 5. [Contribution](#contribution)
 6. [License](#license)
 
-## 🚀Features
+## Features
 
 - **📅 Real-time MCQ Exams**: Conduct multiple-choice exams with set time limits, automatic scoring, and instant results.
 - **🚨 Cheating Detection**: Track tab switching and auto-submit the exam after multiple warnings, ensuring fair examination.
 - **💻 Responsive UI**: Designed for both students and institutions, with a user-friendly interface focused on accessibility and simplicity.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Frontend**: React.js ⚛️
 - **Backend**: Node.js, Express.js 🛠️
 - **Database**: MongoDB 🍃
 - **Other**: Tailwind CSS for styling 🎨, JWT for authentication 🔒
 
-## 💻 Installation
+## Installation
 
 Follow these steps to set up Examify on your local machine.
 
@@ -37,7 +37,7 @@ Follow these steps to set up Examify on your local machine.
 - **Git**
 - **npm** or **yarn**
 
-### 🚧 Setup Guide
+### Setup Guide
 
 1. **Clone the repository:**
    ```bash
@@ -97,7 +97,7 @@ Follow these steps to set up Examify on your local machine.
    - Frontend: [http://localhost:3000](http://localhost:3000) 🌐
    - Backend: [http://localhost:5000](http://localhost:5000) 🚀
 
-## 📸 Screenshots
+## Screenshots
 
 ### 1. Home Page
 ![Home Page](./screenshots/homepage.png)
@@ -116,10 +116,10 @@ Follow these steps to set up Examify on your local machine.
 ![Cheating Detection 1](./screenshots/detection1.png)
 ![Cheating Detection 2](./screenshots/detection2.png)
 
-## 🤝 Contribution
+## Contribution
 
 Feel free to **fork** the repository, make changes, and submit a pull request. Contributions are welcome! 🌟
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
