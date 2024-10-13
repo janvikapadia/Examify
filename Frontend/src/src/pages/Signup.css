@@ -1,0 +1,174 @@
+.sign-up-container {
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+    opacity: 0.9;
+    background-size: 50px 50px;
+    background-position: 0 0, 25px 25px;
+
+
+    margin: auto;
+}
+
+
+.sign-up-form {
+    width: 600px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(233, 230, 230);
+    background-color: rgb(255, 255, 255, 0.85);
+
+    background: rgba(255, 255, 255, 0.5);
+    -webkit-backdrop-filter: blur(6px);
+    backdrop-filter: blur(10px);
+    border: 2px solid rgba(255, 255, 255, 0.25);
+    max-width: 600px;
+    margin: auto;
+
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+.email,
+.password,
+.username {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+}
+
+.button {
+    width: 100%;
+    padding: 10px;
+    background-color: #ffa806;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 20px;
+
+}
+
+.button:hover {
+    background-color: #f92803;
+}
+
+
+.recaptcha-container {
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.password-container {
+    margin-bottom: 15px;
+    display: flex;
+    gap: 10px;
+    /* Space between the two input fields */
+}
+
+
+.password-input {
+    flex: 1;
+}
+
+.password-input label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.password-input input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+}
+
+.admin-selection {
+    margin-top: 10px;
+}
+
+.admin-selection label {
+    font-weight: bold;
+    margin-bottom: 0px;
+    display: inline-block;
+    margin-right: 10px;
+    /* Creates space after the label "Sign up as Admin:" */
+    margin-left: 2px;
+}
+
+.radio-group {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    /* Increased the spacing for a better visual gap between Yes and No */
+}
+
+.radio-group div {
+    display: flex;
+    align-items: center;
+}
+
+.radio-group input {
+    margin-right: 8px;
+    /* Space between the radio button and its label */
+}
+
+.radio-group label {
+    margin: 0;
+    /* Ensures consistent spacing and alignment */
+    cursor: pointer;
+    /* Adds a pointer cursor to the labels for better UX */
+    padding-top: 0px;
+}
+
+
+
+
+
+.sign-up-main-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    /* Adjust as necessary */
+}
+
+.sign-up-container {
+    display: flex;
+    align-items: center;
+    /* Center items vertically */
+}
+
+.sign-up-form {
+    width: 50%;
+    /* Adjust width as needed */
+    padding: 20px;
+    /* Add some padding */
+}
+
+.signup-image {
+    width: 45%;
+    /* Adjust width to fit the layout */
+    height: 90.5%;
+    /* Keep the aspect ratio */
+    margin-left: 70px;
+}

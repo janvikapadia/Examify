@@ -1,0 +1,174 @@
+.sign-up-container {
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* background-color: #ffffff; */
+    opacity: 0.9;
+    background-size: 20px 20px;
+
+}
+
+
+.sign-up-form {
+    width: 400px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(233, 230, 230);
+    background-color: rgb(255, 255, 255, 0.85);
+
+    background: rgba(255, 255, 255, 0.5);
+    -webkit-backdrop-filter: blur(6px);
+    backdrop-filter: blur(10px);
+    border: 2px solid rgba(255, 255, 255, 0.25);
+
+
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+}
+
+.button {
+    width: 100%;
+    padding: 10px;
+    background-color: #ffa806;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-bottom: 10px;
+
+}
+
+.button:hover {
+    background-color: #f92803;
+}
+
+
+.recaptcha-container {
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.password-container {
+    margin-bottom: 15px;
+}
+
+.password-toggle-button {
+    width: 45%;
+    padding: 10px;
+    background-color: #747474;
+    color: #ffffff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-bottom: 20px;
+    /* padding-bottom: 25px; */
+}
+
+.password-toggle-button:hover {
+    background-color: #333;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Container for the login page */
+.login-container {
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    margin-left: 40px;
+}
+
+/* Left section for the SVG */
+.login-left {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-svg {
+    max-width: 90%;
+    height: auto;
+}
+
+/* Right section for the login form */
+.login-right {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.sign-up-form h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.password-container {
+    display: flex;
+    align-items: center;
+}
+
+.recaptcha-container {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button:disabled {
+    background-color: #cccccc;
+    cursor: not-allowed;
+}
