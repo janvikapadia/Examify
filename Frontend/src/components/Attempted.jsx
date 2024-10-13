@@ -1,6 +1,3 @@
-
-
-
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import Modal from 'react-modal';
@@ -38,11 +35,6 @@ export const Attempted = ({
     }, []);
 
 
-
-
-
-
-
     // Filter exams based on selected exam type
     useEffect(() => {
         if (selectedExamType === 'All') {
@@ -55,13 +47,6 @@ export const Attempted = ({
     const handleExamTypeChange = (e) => {
         setSelectedExamType(e.target.value);
     };
-
-
-
-
-
-
-
 
 
 
@@ -88,18 +73,18 @@ export const Attempted = ({
 
     const getExamBackgroundColor = (examName) => {
         if (examName.includes("JEE")) {
-            return 'lightblue';
+            return '#ffffff';
         } else if (examName.includes("GATE")) {
-            return 'lightyellow';
+            return '#ffffff';
         } else if (examName.includes("CAT")) {
-            return 'lightgreen';
+            return '#ffffff';
         } else {
             return backgroundColor;
         }
     };
 
     return (
-        <div style={{ backgroundColor: '#e9e9ff', minHeight: '100vh', padding: 0, margin: '15px' }}>
+        <div style={{ minHeight: '100vh', padding: 0, margin: '15px' }}>
             <div className="filter-dropdown">
                 <h4>Exam : &nbsp;</h4>
                 <select
