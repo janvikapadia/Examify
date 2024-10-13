@@ -3,6 +3,16 @@
 
 **Examify** is a MERN stack-based platform designed to conduct **MCQ-based exams**. It currently supports **JEE, CAT, and GATE exams**, offering a **free resource** for students to practice mock exams. Institutions can also leverage Examify to organize formal exams, providing a comprehensive tool for online assessments.
 
+## 📋 Table of Contents
+1. [Features](#features)
+2. [Technologies Used](#technologies-used)
+3. [Installation](#installation)
+   - [Prerequisites](#prerequisites)
+   - [Setup Guide](#setup-guide)
+4. [Screenshots](#screenshots)
+5. [Contribution](#contribution)
+6. [License](#license)
+
 ## 🚀 Features
 
 - **📅 Real-time MCQ Exams**: Conduct multiple-choice exams with set time limits, automatic scoring, and instant results.
@@ -37,6 +47,7 @@ Follow these steps to set up Examify on your local machine.
 
 2. **Install dependencies:**
 
+
    - **Backend**:
      ```bash
      cd backend
@@ -53,18 +64,19 @@ Follow these steps to set up Examify on your local machine.
 
 3. **Configure environment variables:**
 
+
    In the `backend` folder, create a `.env` file and add the following:
    ```bash
    MONGO_URI = your_mongodb_uri
    PORT = 5000
    KEY = jwttokenkey
-   Email = your_email
-   PASS = your_pass
+   Email = sender_email
+   PASS = sender_password
    ```
 
    📨 **Email Setup**:
-    - Update `sender_email` and `sender_password` in **mail.py**.
-    - Watch this [tutorial](https://youtube.com/shorts/n9Ooxum-iUo?si=uwrhEo26S_Qj9zsC) for guidance.
+    - Update `sender_email` and `sender_password` in **.env**.
+    - Watch this [tutorial](https://youtube.com/shorts/n9Ooxum-iUo?si=uwrhEo26S_Qj9zsC) for guidance. (In python but same for MERN also)
 
 4. **Run the project**:
 
