@@ -1,0 +1,72 @@
+{
+  "Header": {
+    "title": "Examinations, Elevated",
+    "paragraph": "Evaluation. Excellence. Examify."
+  },
+  "About": {
+    "paragraph": "At Examify, we're redefining the exam preparation journey by blending innovative technology with actionable, results-oriented tools. Our platform simulates real exam conditions, allowing you to experience the pressure of actual testing environments while optimizing your study methods. With our extensive, carefully curated question bank and in-depth performance analytics, you gain valuable insights into your strengths and weaknesses for targeted improvement. Designed for user-friendliness, Examify empowers every learner, whether striving for academic success or pursuing professional certifications. Join us as we transform exam preparation, providing the essential resources and strategies to achieve your goals. Take the first step toward mastering your future with Examify—where preparation meets empowerment.",
+    "Why": [
+      "Instant Results for Students",
+      "Realistic Test Environment",
+      "Formatted Reports for Admins",
+      "Secure Platform"
+    ],
+    "Why2": [
+      "Automatic Question Grading",
+      "Flexible Access",
+      "Streamlined Exam Process"
+    ]
+  },
+  "Testimonials": [
+    {
+      "img": "img/testimonials/001.png",
+      "text": "Examify made my exam prep efficient and engaging. The realistic mock tests and easy-to-use design helped me stay productive. A fantastic tool for success!",
+      "name": "Neel Patel"
+    },
+    {
+      "img": "img/testimonials/002.png",
+      "text": "Thanks to Examify's precise and thorough tests, I felt fully prepared for my exams. The insightful analytics were invaluable. Highly recommend!",
+      "name": "Rohan Gupta"
+    },
+    {
+      "img": "img/testimonials/003.png",
+      "text": "With Examify, I felt incredibly prepared and exceeded my score expectations. The practice exams and performance insights made all the difference!",
+      "name": "Arjun Mehta"
+    },
+    {
+      "img": "img/testimonials/04.jpeg",
+      "text": "Examify has revolutionized our examination process. Its streamlined interface and robust analytics allow us to manage assessments efficiently, enabling a stronger focus on student outcomes.",
+      "name": "Zoe Wallenschlager "
+    },
+    {
+      "img": "img/testimonials/005.png",
+      "text": "As an admin, Examify simplifies exam management. Its detailed reporting and efficient scheduling significantly reduce our workload, enhancing the experience for students and staff alike",
+      "name": "Vikram Singh"
+    }
+  ],
+  "Contact": {
+    "address": "18 - Block 2, Sapphire Heights, Ahmedabad, India 380009",
+    "phone": "+91 9638221084",
+    "email": "info@Examify.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "linkedin": "linkedin.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-file-text",
+      "title": "Exam Simulation",
+      "text": "Simulates actual exam conditions with timed tests and authentic question formats."
+    },
+    {
+      "icon": "fa fa-pencil",
+      "title": "Entrance Exams ",
+      "text": "Take practice exams based on specific entrance exam formats like JEE or NEET."
+    },
+    {
+      "icon": "fa fa-check",
+      "title": "Automatic Exam Grading",
+      "text": "Reduces manual grading errors and ensures consistent evaluation with automated processes."
+    }
+  ]
+}

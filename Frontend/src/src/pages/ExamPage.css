@@ -1,0 +1,222 @@
+.exam-page {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.exam-navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #f1f1f1;
+    border-bottom: 1px solid #ddd;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.exam-name {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.timer {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.question-info {
+    font-size: 18px;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    width: 80%;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding-bottom: 120px;
+    /* Increased to make room for navigation panel */
+}
+
+.question-container {
+    text-align: center;
+    width: 100%;
+    margin-bottom: 20px;
+    /* Added space between question content and navigation panel */
+}
+
+.options-container {
+    margin: 20px 0;
+}
+
+.option-button {
+    display: block;
+    width: 100%;
+    padding: 15px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #fff;
+    color: black;
+    cursor: pointer;
+    text-align: left;
+    font-size: 18px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.option-button.selected {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.navigation-buttons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.navigation-buttons button {
+    height: 50px;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+.navigation-buttons .prev-button,
+.navigation-buttons .next-button {
+    width: 150px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    margin: 0 10px;
+}
+
+.navigation-buttons .submit-button {
+    width: 200px;
+    background-color: #28a745;
+    color: #fff;
+}
+
+.prev-button:hover,
+.next-button:hover,
+.submit-button:hover {
+    opacity: 0.9;
+}
+
+button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+}
+
+/* Modal styles */
+.ReactModal__Overlay {
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.ReactModal__Content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    right: auto;
+    bottom: auto;
+    transform: translate(-50%, -50%);
+    width: 300px;
+    padding: 20px;
+    border-radius: 10px;
+    background: #fff;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Navigation Panel Styles */
+.navigation-panel {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #f8f9fa;
+    padding: 10px;
+    border-top: 1px solid #e5e5e5;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    z-index: 1000;
+}
+
+.navigation-panel h3 {
+    margin-bottom: 10px;
+}
+
+.navigation-panel .navigation-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: LEFT;
+    margin-bottom: 10px;
+}
+
+.navigation-buttons {
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 0;
+}
+
+.navigation-buttons .prev-button,
+.navigation-buttons .next-button {
+    width: 150px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    margin: 0 10px;
+}
+
+.navigation-buttons .submit-button {
+    width: 200px;
+    background-color: #28a745;
+    color: #fff;
+}
+
+.navigation-buttons .prev-button:hover,
+.navigation-buttons .next-button:hover,
+.navigation-buttons .submit-button:hover {
+    opacity: 0.9;
+}
+
+.navigation-panel .nav-button {
+    background-color: #007bff;
+    border: none;
+    color: white;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    width: 40px;
+    height: 40px;
+}
+
+.navigation-panel .nav-button.active {
+    background-color: #0056b3;
+}
+
+.navigation-panel .nav-button.answered {
+    background-color: #dc3545;
+    /* Red color for answered questions */
+}
+
+.navigation-panel .nav-button:hover {
+    background-color: #0056b3;
+}
+
+.navigation-panel .nav-button-info {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #666;
+}
