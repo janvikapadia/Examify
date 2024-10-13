@@ -36,14 +36,6 @@ const examSchema = new mongoose.Schema({
   status: { type: String, enum: ['Live', 'Completed', 'Upcoming'], default: 'Upcoming' }
 });
 
-const resultSchema = new mongoose.Schema({
-  exam_name: { type: String, required: true },
-  exam_date: { type: Date, required: true },
-  exam_time: { type: String, required: true },
-  user_name: { type: String, required: true },
-  score: { type: Number, required: true }
-});
-
 const attemptSchema = new mongoose.Schema({
   user_id: { type: mongoose.Schema.Types.ObjectId, ref: 'User', required: true },
   exam_id: { type: mongoose.Schema.Types.ObjectId, ref: 'Exam', required: true },
@@ -72,7 +64,6 @@ const questionSchema = new mongoose.Schema({
 
 const UserModel = mongoose.model("User", UserSchema);
 const ExamModel = mongoose.model("Exam", examSchema);
-const ResultModel = mongoose.model("Result", resultSchema);
 const AttModel = mongoose.model("Attempt", attemptSchema);
 const QuestionModel = mongoose.model("Question", questionSchema);
 
@@ -81,6 +72,5 @@ const QuestionModel = mongoose.model("Question", questionSchema);
 
 export { UserModel as User };
 export { ExamModel as Exam };
-export { ResultModel as Result };
 export { AttModel as Attempt };
 export { QuestionModel as Question };
