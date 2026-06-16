@@ -11,7 +11,7 @@ export const StudentNav = ({ onTabChange }) => {
     useEffect(() => {
         const fetchUserData = async () => {
             try {
-                const response = await axios.get("http://localhost:3000/auth/user");
+                const response = await axios.get("https://examify-myxq.onrender.com/auth/user");
                 setUsername(response.data.username);
                 setUserId(response.data.user_id._id);
             } catch (error) {

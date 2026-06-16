@@ -16,7 +16,7 @@ export const LiveAd = ({
     useEffect(() => {
         const fetchExams = async () => {
             try {
-                const response = await axios.post('http://localhost:3000/admin/exams');
+                const response = await axios.post('https://examify-myxq.onrender.com/admin/exams');
                 const exams = response.data;
 
                 const currentDateTimeUTC = new Date();
@@ -72,7 +72,7 @@ export const LiveAd = ({
                 status: "Completed"
             };
 
-            await axios.put(`http://localhost:3000/admin/update/${exam._id}`, updatedExam);
+            await axios.put(`https://examify-myxq.onrender.com/admin/update/${exam._id}`, updatedExam);
             setLiveExams(prevExams => prevExams.filter(e => e._id !== exam._id));
         } catch (error) {
             console.error('Error updating exam:', error);
@@ -90,7 +90,7 @@ export const LiveAd = ({
                 status: "Upcoming"
             };
 
-            await axios.put(`http://localhost:3000/admin/update/${exam._id}`, updatedExam);
+            await axios.put(`https://examify-myxq.onrender.com/admin/update/${exam._id}`, updatedExam);
             setLiveExams(prevExams => prevExams.filter(e => e._id !== exam._id));
         } catch (error) {
             console.error('Error updating exam status to Upcoming:', error);

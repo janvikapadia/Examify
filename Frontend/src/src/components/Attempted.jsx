@@ -20,11 +20,11 @@ export const Attempted = ({
     useEffect(() => {
         const fetchAttemptedExams = async () => {
             try {
-                const userResponse = await axios.get('http://localhost:3000/auth/user');
+                const userResponse = await axios.get('https://examify-myxq.onrender.com/auth/user');
                 const fetchedUserId = userResponse.data.user_id._id;
                 setUserId(fetchedUserId);
 
-                const response = await axios.post('http://localhost:3000/student/attempted-exams', { userId: fetchedUserId });
+                const response = await axios.post('https://examify-myxq.onrender.com/student/attempted-exams', { userId: fetchedUserId });
                 setAttemptedExams(response.data);
             } catch (error) {
                 console.error('Error fetching attempted exams:', error);
@@ -53,7 +53,7 @@ export const Attempted = ({
 
     const openReviewModal = async (examId) => {
         try {
-            const response = await axios.post('http://localhost:3000/student/review', {
+            const response = await axios.post('https://examify-myxq.onrender.com/student/review', {
                 examID: examId,
                 userId: userId
             });

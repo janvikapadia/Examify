@@ -12,7 +12,7 @@ export const UpcomingAd = ({ buttonColor1 = '#a20ee0', buttonText1 = 'LIVE', but
     useEffect(() => {
         const fetchExams = async () => {
             try {
-                const response = await axios.post('http://localhost:3000/admin/exams');
+                const response = await axios.post('https://examify-myxq.onrender.com/admin/exams');
                 const exams = response.data;
                 const currentDateTimeUTC = new Date();
 
@@ -70,7 +70,7 @@ export const UpcomingAd = ({ buttonColor1 = '#a20ee0', buttonText1 = 'LIVE', but
             };
 
             // Trigger the live status change and send email notification
-            await axios.put(`http://localhost:3000/admin/update/${exam._id}`, updatedExam);
+            await axios.put(`https://examify-myxq.onrender.com/admin/update/${exam._id}`, updatedExam);
 
             setUpcomingExams(prevExams => prevExams.filter(e => e._id !== exam._id));
 
@@ -85,7 +85,7 @@ export const UpcomingAd = ({ buttonColor1 = '#a20ee0', buttonText1 = 'LIVE', but
 
     const handleDeleteClick = async (examId) => {
         try {
-            const response = await axios.delete(`http://localhost:3000/admin/delete/${examId}`);
+            const response = await axios.delete(`https://examify-myxq.onrender.com/admin/delete/${examId}`);
             console.log('Delete Response:', response);
             toast.success("Exam Deleted!");
             setUpcomingExams(prevExams => prevExams.filter(e => e._id !== examId));

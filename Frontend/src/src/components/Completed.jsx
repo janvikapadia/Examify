@@ -21,7 +21,7 @@ export const Completed = ({
     useEffect(() => {
         const fetchExams = async () => {
             try {
-                const response = await axios.post('http://localhost:3000/admin/exams');
+                const response = await axios.post('https://examify-myxq.onrender.com/admin/exams');
                 const exams = response.data;
 
                 const offset = 330; // IST is UTC+5:30
@@ -83,7 +83,7 @@ export const Completed = ({
     const openModal = async (examId) => {
         try {
             // Fetch the review data even if no attempts are found
-            const response = await axios.post(`http://localhost:3000/admin/review/${examId}`);
+            const response = await axios.post(`https://examify-myxq.onrender.com/admin/review/${examId}`);
             setAttempts(response.data);  // It will be an empty array if no attempts exist
         } catch (error) {
             console.error('Error fetching review data:', error);

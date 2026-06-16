@@ -46,12 +46,12 @@ const ExamPage = () => {
     useEffect(() => {
         const fetchExamDetails = async () => {
             try {
-                const userResponse = await axios.get("http://localhost:3000/auth/user");
+                const userResponse = await axios.get("https://examify-myxq.onrender.com/auth/user");
                 const fetchedUserId = userResponse.data.user_id._id;
                 setUserId(fetchedUserId);
                 console.log('Fetched User ID:', fetchedUserId);
 
-                const response = await axios.get(`http://localhost:3000/exam/details/${examId}`);
+                const response = await axios.get(`https://examify-myxq.onrender.com/exam/details/${examId}`);
                 const examDetails = response.data;
                 setQuestions(examDetails.questions);
                 setExamDuration(examDetails.exam_duration * 60); // Convert minutes to seconds
@@ -159,7 +159,7 @@ const ExamPage = () => {
         const timeTaken = calculateTimeTaken();
 
         try {
-            await axios.post('http://localhost:3000/exam/submit-results', {
+            await axios.post('https://examify-myxq.onrender.com/exam/submit-results', {
                 userId,
                 examId,
                 score,

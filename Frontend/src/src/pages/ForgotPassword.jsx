@@ -20,7 +20,7 @@ const ForgotPassword = () => {
       return;
     }
 
-    Axios.post("http://localhost:3000/auth/forgot-password", { email })
+    Axios.post("https://examify-myxq.onrender.com/auth/forgot-password", { email })
       .then((response) => {
         setLoading(false);
         if (response.data.status) {

@@ -59,7 +59,7 @@ const Signup = () => {
     }
 
     try {
-      const response = await Axios.post("http://localhost:3000/auth/signup", {
+      const response = await Axios.post("https://examify-myxq.onrender.com/auth/signup", {
         username,
         email,
         password,

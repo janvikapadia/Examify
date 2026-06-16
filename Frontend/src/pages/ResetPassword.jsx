@@ -47,7 +47,7 @@ const ResetPassword = () => {
       return;
     }
 
-    Axios.post(`http://localhost:3000/auth/reset-password/` + token, {
+    Axios.post(`https://examify-myxq.onrender.com/auth/reset-password/` + token, {
       password,
     })
       .then((response) => {

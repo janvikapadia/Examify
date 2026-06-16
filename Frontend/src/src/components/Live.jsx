@@ -28,10 +28,10 @@ export const Live = ({ buttonText = 'ATTEMPT', modalButtonText = "START EXAM" })
     useEffect(() => {
         const fetchExams = async () => {
             try {
-                const examsResponse = await axios.post('http://localhost:3000/student/exams');
+                const examsResponse = await axios.post('https://examify-myxq.onrender.com/student/exams');
                 const exams = examsResponse.data;
 
-                const userResponse = await axios.get("http://localhost:3000/auth/user");
+                const userResponse = await axios.get("https://examify-myxq.onrender.com/auth/user");
                 const fetchedUserId = userResponse.data.user_id._id;
                 setUserId(fetchedUserId);
 
@@ -40,7 +40,7 @@ export const Live = ({ buttonText = 'ATTEMPT', modalButtonText = "START EXAM" })
                 const nonAttemptedExams = await Promise.all(
                     liveExams.map(async (exam) => {
                         try {
-                            const attemptResponse = await axios.get(`http://localhost:3000/exam/check/${fetchedUserId}/${exam._id}`);
+                            const attemptResponse = await axios.get(`https://examify-myxq.onrender.com/exam/check/${fetchedUserId}/${exam._id}`);
                             return attemptResponse.data.attempted ? null : exam;
                         } catch (error) {
                             console.error(`Error checking attempt status for exam ${exam._id}:`, error);
@@ -84,7 +84,7 @@ export const Live = ({ buttonText = 'ATTEMPT', modalButtonText = "START EXAM" })
 
     const handleStartExam = async (examId) => {
         try {
-            await axios.post('http://localhost:3000/exam/save', {
+            await axios.post('https://examify-myxq.onrender.com/exam/save', {
                 examID: examId,
                 userId: userId
             });

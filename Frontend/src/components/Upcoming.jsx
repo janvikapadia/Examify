@@ -14,7 +14,7 @@ export const Upcoming = ({ buttonColor = '#a20ee0', buttonText = 'VIEW', modalBu
     useEffect(() => {
         const fetchExams = async () => {
             try {
-                const response = await axios.post('http://localhost:3000/admin/exams');
+                const response = await axios.post('https://examify-myxq.onrender.com/admin/exams');
                 const exams = response.data;
                 const currentDateTimeUTC = new Date();
                 const filteredExams = exams.filter(exam => {

@@ -139,7 +139,7 @@ export const AddExam = () => {
 
     try {
       const response = await axios.post(
-        "http://localhost:3000/admin/addexams",
+        "https://examify-myxq.onrender.com/admin/addexams",
         dataToSubmit
       );
 
@@ -188,7 +188,7 @@ export const AddExam = () => {
 
         try {
           const response = await axios.post(
-            "http://localhost:3000/admin/addquestions",
+            "https://examify-myxq.onrender.com/admin/addquestions",
             questionData
           );
 
@@ -253,7 +253,7 @@ export const AddExam = () => {
 
     try {
       const response = await axios.post(
-        "http://localhost:3000/admin/addquestions",
+        "https://examify-myxq.onrender.com/admin/addquestions",
         questionData
       );
 

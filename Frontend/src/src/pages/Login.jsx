@@ -40,7 +40,7 @@ const Login = () => {
     setLoading(true);
 
     try {
-      const response = await Axios.post("http://localhost:3000/auth/login", {
+      const response = await Axios.post("https://examify-myxq.onrender.com/auth/login", {
         email,
         password,
         captcha: captchaValue,
